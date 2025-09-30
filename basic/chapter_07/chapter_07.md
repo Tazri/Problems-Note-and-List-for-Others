@@ -20,6 +20,22 @@ vecotr<int> v4 = {1,2,3} // vector with size 3 and valuse 1, 2, 3
 
 ### 2️⃣ Common Operations
 
+### 🔹 Input Elements
+
+```cpp
+
+vector<int> v(n); // n is here size
+
+for(int i = 0;i < n;i++){
+    cin >> v[i];
+}
+
+// using reference loop
+for(int &vi:v){
+    cin >> vi;
+}
+```
+
 ### 🔹 Add elements
 
 ```cpp
