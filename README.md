@@ -1,0 +1,16 @@
+## 📖 Basic
+
+- [Chapter 01 : 📚 Data Types, Variables & Operators](./basic/chapter_01/chapter_01.md)
+  - [Problems on Data Types, Variables & Operators](./basic/chapter_01/problem_01.md)
+- [Chapter 02 : 📚 Condition](./basic/chapter_02/chapter_02.md)
+  - [Problems on Condition](./basic/chapter_02/problem_02.md)
+- [Chapter 03 : 📚 Loops](./basic/chapter_03/chapter_03.md)
+  - [Problems on Loops](./basic/chapter_03/problem_03.md)
+- [Chapter 04 : 📚 Array](./basic/chapter_04/chapter_04.md)
+  - [Problems on Array](./basic/chapter_04/problem_04.md)
+- [Chapter 05 : 📚 Multi Dimentional Array](./basic/chapter_05/chapter_05.md)
+  - [Problems on Mutli dimentional Array](./basic/chapter_05/problem_05.md)
+- [Chapter 06 : 📚 String](./basic/chapter_06/chapter_06.md)
+  - [Problems on String](./basic/chapter_06/problem_06.md)
+- [Chapter 07 : 📚 Vector](./basic/chapter_07/chapter_07.md)
+  - [Problems on Vector](./basic/chapter_07/problem_07.md)
