@@ -48,6 +48,33 @@ v.emplace_back(7); // faster than push_back (directly constructs)
 
 ---
 
+### 🔹 Use of Assign
+
+📖 Fill the vector with n copies of a value
+
+```cpp
+vector<int> v;
+v.assign(5, 100);
+// Now v = {100, 100, 100, 100, 100}
+```
+
+📖 Assign from another range (iterators)
+
+```cpp
+vector<int> v1 = {1, 2, 3, 4};
+vector<int> v2;
+v2.assign(v1.begin(), v1.end());
+// Now v2 = {1, 2, 3, 4}
+```
+
+📖 Assign from initializer list (C++11+)
+
+```cpp
+vector<int> v;
+v.assign({10, 20, 30, 40});
+// Now v = {10, 20, 30, 40}
+```
+
 ### 🔹 Remove elements
 
 ```cpp
@@ -180,17 +207,18 @@ bool isFound = binary_search(v.begin(), v.end(), 2);
 
 ### 3️⃣ Must-Know Vector Methods for CP 🚀
 
-| Method                           | Usage                                  |
-| -------------------------------- | -------------------------------------- |
-| `push_back()` / `emplace_back()` | Add elements to end                    |
-| `pop_back()`                     | Remove last element                    |
-| `size()` / `empty()`             | Get size, check empty                  |
-| `clear()`                        | Reset vector length 0                  |
-| `swap()`                         | O(1) memory trick                      |
-| `insert()` / `erase()`           | Modify at position                     |
-| `sort()` / `reverse()`           | Fast ordering                          |
-| `unique()`                       | Remove duplicates                      |
-| `binary_search()`                | Fast search, but vector must be sorted |
+| Method                           | Usage                                                                                                                                           |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| `push_back()` / `emplace_back()` | Add elements to end                                                                                                                             |
+| `pop_back()`                     | Remove last element                                                                                                                             |
+| `size()` / `empty()`             | Get size, check empty                                                                                                                           |
+| `clear()`                        | Reset vector length 0                                                                                                                           |
+| `swap()`                         | O(1) memory trick                                                                                                                               |
+| `insert()` / `erase()`           | Modify at position                                                                                                                              |
+| `sort()` / `reverse()`           | Fast ordering                                                                                                                                   |
+| `unique()`                       | Remove duplicates                                                                                                                               |
+| `binary_search()`                | Fast search, but vector must be sorted                                                                                                          |
+| `assign()`                       | Fill the vector with certian amount of value, or fill the vector with another vector range using iterator and fill the vector by another vector |
 
 4️⃣ `next_permutation` to generate permutation of vector element.
 
