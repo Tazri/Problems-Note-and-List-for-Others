@@ -205,6 +205,32 @@ bool isFound = binary_search(v.begin(), v.end(), 2);
 
 ---
 
+### 🔹 Max element
+
+```cpp
+vector<int> v = {3, 4, 6, 4, 3, 6};
+auto maxIt = max_element(v.begin(), v.end()); // return iterator
+int index = maxIt - v.begin();
+
+cout << index << endl;  // 2, index of first max element in vector
+cout << *maxIt << endl; // 6, value of max element
+```
+
+📖 Time complexity of max_element is **O(n)**
+
+### 🔹 Min element
+
+```cpp
+vector<int> v = {3, 4, 6, 4, 3, 6};
+auto minIt = min_element(v.begin(), v.end()); //return iterator
+int index = minIt - v.begin();
+
+cout << index << endl;  // 0, index of first min element in vector
+cout << *minIt << endl; // 3, value of min element
+```
+
+📖 Time complexity of min_element is **O(n)**
+
 ### 3️⃣ Must-Know Vector Methods for CP 🚀
 
 | Method                           | Usage                                                                                                                                           |
@@ -219,6 +245,9 @@ bool isFound = binary_search(v.begin(), v.end(), 2);
 | `unique()`                       | Remove duplicates                                                                                                                               |
 | `binary_search()`                | Fast search, but vector must be sorted                                                                                                          |
 | `assign()`                       | Fill the vector with certian amount of value, or fill the vector with another vector range using iterator and fill the vector by another vector |
+| `max_element`                    | Return the iterator of first maximum element in vector                                                                                          |
+| `min_element`                    | Return the iterator of first minimum element in vector                                                                                          |
+| `max_element`                    | Return the iterator of first maximum element in vector                                                                                          |
 
 4️⃣ `next_permutation` to generate permutation of vector element.
 
