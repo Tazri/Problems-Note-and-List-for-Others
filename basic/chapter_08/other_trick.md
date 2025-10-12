@@ -4,6 +4,10 @@
 
 ## 🧩 Separate Words from Sentence
 
+If you want to know about stringstream then go :
+
+### [StringStream](./stringstream.md)
+
 **Using `stringstream` (Easiest & Most Popular Way)**
 
 The classic method — clean, short, and powerful 🔥

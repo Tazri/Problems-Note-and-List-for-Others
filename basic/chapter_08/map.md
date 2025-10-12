@@ -47,17 +47,17 @@ mp[2] = "Void";
 
 ## 🧠 **Important Operations**
 
-| Operation         | Code Example                                     | Complexity | Description                                 |
-| ----------------- | ------------------------------------------------ | ---------- | ------------------------------------------- |
-| Insert element    | `mp.insert({key, value});` or `mp[key] = value;` | O(log n)   | Adds key–value pair                         |
-| Access element    | `mp[key]`                                        | O(log n)   | Finds or creates entry                      |
-| Erase by key      | `mp.erase(key);`                                 | O(log n)   | Removes a key                               |
-| Erase by iterator | `mp.erase(it);`                                  | O(1)       | Removes using iterator                      |
-| Find              | `auto it = mp.find(key);`                        | O(log n)   | Returns iterator or `mp.end()` if not found |
-| Size              | `mp.size();`                                     | O(1)       | Count of pairs                              |
-| Clear             | `mp.clear();`                                    | O(n)       | Remove all                                  |
-| Empty             | `mp.empty();`                                    | O(1)       | Check if empty                              |
-| Count             | `mp.count(key);`                                 | O(log n)   | 1 if exists, 0 otherwise                    |
+| Operation            | Code Example                                     | Complexity | Description                                 |
+| -------------------- | ------------------------------------------------ | ---------- | ------------------------------------------- |
+| Insert Key and Value | `mp.insert({key, value});` or `mp[key] = value;` | O(log n)   | Adds key–value pair                         |
+| Access Value by Key  | `mp[key]`                                        | O(log n)   | Finds or creates entry                      |
+| Erase by key         | `mp.erase(key);`                                 | O(log n)   | Removes a key                               |
+| Erase by iterator    | `mp.erase(it);`                                  | O(1)       | Removes using iterator                      |
+| Find                 | `auto it = mp.find(key);`                        | O(log n)   | Returns iterator or `mp.end()` if not found |
+| Size                 | `mp.size();`                                     | O(1)       | Count of pairs                              |
+| Clear                | `mp.clear();`                                    | O(n)       | Remove all                                  |
+| Empty                | `mp.empty();`                                    | O(1)       | Check if empty                              |
+| Count                | `mp.count(key);`                                 | O(log n)   | 1 if exists, 0 otherwise                    |
 
 ---
 

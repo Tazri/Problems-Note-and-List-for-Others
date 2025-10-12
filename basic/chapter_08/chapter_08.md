@@ -4,8 +4,8 @@
 
 ## Before
 
-- [Map](./map.md)
-- [Set](./set.md)
+- [Map](./map.md) | [Basic Explanation of Map](./map_explanation.md)
+- [Set](./set.md) | [Basic Explanation of Set](./set.explanation.md)
 - [Others Tricks](./other_trick.md)
 
 # Bruteforces
