@@ -10,7 +10,6 @@
 
 - [Codeforces : B. Triple](https://codeforces.com/problemset/problem/1669/B)
 - [CodeChef : Largest and Second Largest Practice Coding Problem](https://www.codechef.com/problems/LARGESECOND)
-- [AtCoder : B - Tetrahedral Number](https://atcoder.jp/contests/abc335/tasks/abc335_b?lang=en)
 - [Codeforces : A. Juicer](https://codeforces.com/problemset/problem/709/A)
 
 📛 Easy Medium
@@ -21,11 +20,6 @@
 
 - [Codeforces : B. Polycarp Training](https://codeforces.com/problemset/problem/1165/B)
 - [Codeforces : A. Kefa and First Steps](https://codeforces.com/problemset/problem/580/A)
-- [AtCoder : C - Count Order](https://atcoder.jp/contests/abc150/tasks/abc150_c?lang=en)
-
-🔥 Hard
-
-- [AtCoder : C - Count Order](https://atcoder.jp/contests/abc150/tasks/abc150_c?lang=en) (without next_permutation)
 
 <br />
 

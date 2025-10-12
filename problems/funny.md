@@ -1,0 +1,1 @@
+- [A. The Bento Box Adventure](https://codeforces.com/problemset/problem/2041/A)
