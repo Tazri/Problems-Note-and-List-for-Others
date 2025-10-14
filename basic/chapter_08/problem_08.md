@@ -37,6 +37,7 @@
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) (Implementation)
 - [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
+- [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
 - [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) (Do not use built in reverse function)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
