@@ -40,8 +40,9 @@
 ## 💀 Medium
 
 - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) ( extra space optional, i will give it later again)
-- [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) (Implementatio)
 - [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) (Math Implemantation)
+- [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/) (Implementation)
 - [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) (Implementation )
+- [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) (Implementation)
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) ( Implementation Heavy )
 - [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) (Implementation Heavy)

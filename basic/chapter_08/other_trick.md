@@ -110,3 +110,53 @@ for (int x : a) {
 
 for (int x : distinct) cout << x << " ";
 ```
+
+---
+
+## 📚 Find All Divisors in O(√n)
+
+```cpp
+long long n;
+cin >> n;
+
+vector<long long> divisors;
+
+// here i*i , that why it run sqrt(n)
+for (long long i = 1; i * i <= n; i++) {
+    if (n % i == 0) {
+        divisors.push_back(i);
+        if (i != n / i)
+            divisors.push_back(n / i);
+    }
+}
+
+// sort divisors
+sort(divisors.begin(), divisors.end());
+
+for (auto d : divisors)
+    cout << d << " ";
+cout << "\n";
+```
+
+### ⚙️ How It Works
+
+Let’s say you want all divisors of n.
+
+> If i divides n, then n / i is also a divisor.
+
+👉 So for each divisor i ≤ √n, we get two divisors at once:
+i and n / i.
+
+💡 Example:
+
+```
+n = 36
+i = 1 → 1 x 36
+i = 2 → 2 x 18
+i = 3 → 3 x 12
+i = 4 → 4 x 9
+i = 5 → no
+i = 6 → 6 x 6 (same, only take once)
+```
+
+✅ Divisors = [1, 2, 3, 4, 6, 9, 12, 18, 36]
