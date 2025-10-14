@@ -36,6 +36,11 @@
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) (Implementation)
+- [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
+- [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) (Do not use built in reverse function)
+- [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
+- [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
+- [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 
 ## 💀 Medium
 
