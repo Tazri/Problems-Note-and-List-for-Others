@@ -43,6 +43,7 @@
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
 - [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
+- [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
 
 ## 💀 Medium
 
