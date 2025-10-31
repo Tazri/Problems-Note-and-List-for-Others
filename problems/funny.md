@@ -1,1 +1,2 @@
 - [A. The Bento Box Adventure](https://codeforces.com/problemset/problem/2041/A)
+- [Codeforces : A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A)
