@@ -4,3 +4,4 @@
 - [Codeforces : B. Borze](https://codeforces.com/problemset/problem/32/B)
 - [Codeforces : A. Short Substrings](https://codeforces.com/problemset/problem/1367/A)
 - [Codeforces : A. Football](https://codeforces.com/problemset/problem/43/A)
+- [Codeforces : A. Square String?](https://codeforces.com/problemset/problem/1619/A)
