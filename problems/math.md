@@ -24,3 +24,4 @@
 - [Codeforces : C. Odd/Even Increments](https://codeforces.com/problemset/problem/1669/C)
 - [Codeforces : A. Parity](https://codeforces.com/problemset/problem/1110/A)
 - [Codeforces : A. Array Coloring](https://codeforces.com/problemset/problem/1857/A)
+- [Codeforces : A. GCD Sum](https://codeforces.com/problemset/problem/1498/A)

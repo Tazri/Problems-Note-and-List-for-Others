@@ -22,6 +22,7 @@
 **🕯️ Easy :**
 
 - [Codeforces : A. Elephant](https://codeforces.com/problemset/problem/617/A)
+- [Codeforces : A. GCD Sum](https://codeforces.com/problemset/problem/1498/A)
 
 **🕯️🕯️ Easy Medium :**
 
