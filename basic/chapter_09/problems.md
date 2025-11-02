@@ -62,6 +62,7 @@
 - [Codeforces : A. Add Odd or Subtract Even](https://codeforces.com/problemset/problem/1311/A)
 - [Codeforces : C. Odd/Even Increments](https://codeforces.com/problemset/problem/1669/C)
 - [Codeforces : A. Parity](https://codeforces.com/problemset/problem/1110/A)
+- [Codeforces : B. Fair Division](https://codeforces.com/problemset/problem/1472/B)
 - [Codeforces : A. Array Coloring](https://codeforces.com/problemset/problem/1857/A)
 
 ---

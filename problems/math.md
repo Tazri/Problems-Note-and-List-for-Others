@@ -25,3 +25,4 @@
 - [Codeforces : A. Parity](https://codeforces.com/problemset/problem/1110/A)
 - [Codeforces : A. Array Coloring](https://codeforces.com/problemset/problem/1857/A)
 - [Codeforces : A. GCD Sum](https://codeforces.com/problemset/problem/1498/A)
+- [Codeforces : B. Fair Division](https://codeforces.com/problemset/problem/1472/B)
