@@ -16,3 +16,5 @@
   - [Problems on Vector](./basic/chapter_07/problem_07.md)
 - [Chapter 08: 📚 Bruteforces & Implemantation](./basic/chapter_08/chapter_08.md)
   - [Problems on Bruteforces & Implemantation](./basic/chapter_08/problem_08.md)
+- [Chapter 09: 📚 Functions, Math & Observation](./basic/chapter_09/chapter_09.md)
+  - [Problems on Math & Observation](./basic/chapter_09/problems.md)
