@@ -7,3 +7,6 @@
 - [Codeforces : A. Square String?](https://codeforces.com/problemset/problem/1619/A)
 - [Codeforces : A. Helpful Maths](https://codeforces.com/problemset/problem/339/A)
 - [Codeforces : A. String Task](https://codeforces.com/problemset/problem/118/A)
+- [Codeforces : A. Do Not Be Distracted!](https://codeforces.com/problemset/problem/1520/A)
+- [Codeforces : B. Colourblindness](https://codeforces.com/problemset/problem/1722/B)
+- [Codeforces : A. Night at the Museum](https://codeforces.com/problemset/problem/731/A)

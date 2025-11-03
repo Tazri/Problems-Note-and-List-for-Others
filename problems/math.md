@@ -26,3 +26,5 @@
 - [Codeforces : A. Array Coloring](https://codeforces.com/problemset/problem/1857/A)
 - [Codeforces : A. GCD Sum](https://codeforces.com/problemset/problem/1498/A)
 - [Codeforces : B. Fair Division](https://codeforces.com/problemset/problem/1472/B)
+- [Codeforces : B. New Year's Number](https://codeforces.com/problemset/problem/1475/B)
+- [Codeforces : A. Candies](https://codeforces.com/problemset/problem/1343/A)
