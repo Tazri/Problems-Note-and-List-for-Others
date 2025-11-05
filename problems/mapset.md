@@ -5,3 +5,4 @@
 - [Codeforces : A. Football](https://codeforces.com/problemset/problem/43/A)
 - [Codeforces : B. CopyCopyCopyCopyCopy](https://codeforces.com/problemset/problem/1325/B)
 - [Codeforces : A. Do Not Be Distracted!](https://codeforces.com/problemset/problem/1520/A)
+- [Codeforces : B. Lecture](https://codeforces.com/problemset/problem/499/B)

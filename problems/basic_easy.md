@@ -1,7 +1,5 @@
 # Basic
 
-## String
-
 - [Codeforces : A. Way Too Long Words](https://codeforces.com/contest/71/problem/A)
 - [Codeforces : A. Remove Smallest](https://codeforces.com/problemset/problem/1399/A)
 - [Codeforces : A. Vasya the Hipster](https://codeforces.com/problemset/problem/581/A)
@@ -14,3 +12,15 @@
 - [Codeforces : A. Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A)
 - [Codeforces : A. Spell Check](https://codeforces.com/problemset/problem/1722/A)
 - [Codeforces : A. A+B?](https://codeforces.com/problemset/problem/1772/A)
+- [Codeforces : A. Problem Generator](https://codeforces.com/problemset/problem/1980/A)
+- [Codeforces : B. Atilla's Favorite Problem](https://codeforces.com/problemset/problem/1760/B)
+- [Codeforces : A. Floor Number](https://codeforces.com/problemset/problem/1426/A)
+- [Codeforces : A. Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A)
+- [Codeforces : A. Fair Playoff](https://codeforces.com/problemset/problem/1535/A)
+- [Codeforces : A. My First Sorting Problem](https://codeforces.com/problemset/problem/1971/A)
+- [Codeforces : B. Equal Candies](https://codeforces.com/contest/1676/problem/B)
+- [Codeforces : A. Vlad and the Best of Five](https://codeforces.com/problemset/problem/1926/A)
+- [Codeforces : A. Plus One on the Subset](https://codeforces.com/contest/1624/problem/A)
+- [Codeforces : A. A+B?](https://codeforces.com/problemset/problem/1772/A)
+- [Codeforces : A. Most Unstable Array](https://codeforces.com/contest/1353/problem/A)
+- [Codeforces : A. Park Lighting](https://codeforces.com/contest/1358/problem/A)
