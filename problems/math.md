@@ -39,3 +39,7 @@
 - [Codeforces : A. Vasya and Socks](https://codeforces.com/contest/460/problem/A)
 - [Codeforces : A. New Year Candles](https://codeforces.com/problemset/problem/379/A)
 - [Codeforces : A. Collecting Coins](https://codeforces.com/problemset/problem/1294/A)
+- [Codeforces : D. Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D)(LCM)
+- [Codeforces : A. Draw a Square](https://codeforces.com/contest/2074/problem/A)
+- [Codeforces : A. Arithmetic Array](https://codeforces.com/problemset/problem/1537/A)
+- [Codeforces : B. Who's Opposite?](https://codeforces.com/problemset/problem/1560/B)

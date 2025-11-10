@@ -24,3 +24,6 @@
 - [Codeforces : A. A+B?](https://codeforces.com/problemset/problem/1772/A)
 - [Codeforces : A. Most Unstable Array](https://codeforces.com/contest/1353/problem/A)
 - [Codeforces : A. Park Lighting](https://codeforces.com/contest/1358/problem/A)
+- [Codeforces : A. Elections](https://codeforces.com/problemset/problem/1593/A)
+- [Codeforces : A. Polycarp and the Day of Pi](https://codeforces.com/problemset/problem/1790/A)
+- [Codeforces : A. Deletions of Two Adjacent Letters](https://codeforces.com/problemset/problem/1650/A)

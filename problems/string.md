@@ -16,3 +16,6 @@
 - [Codeforces : A. Keyboard](https://codeforces.com/problemset/problem/474/A)
 - [Codeforces : A. Magic Numbers](https://codeforces.com/contest/320/problem/A)
 - [Codeforces : A. Two Substrings](https://codeforces.com/contest/550/problem/A)
+- [Codeforces : B. Construct the String](https://codeforces.com/contest/1335/problem/B)
+- [Codeforces : A. Polycarp and the Day of Pi](https://codeforces.com/problemset/problem/1790/A)
+- [Codeforces : A. Deletions of Two Adjacent Letters](https://codeforces.com/problemset/problem/1650/A)

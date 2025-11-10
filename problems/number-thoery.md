@@ -13,3 +13,4 @@
 - [Codeforces : A. LCM Problem](https://codeforces.com/problemset/problem/1389/A)
 - [Codeforces : B. Ordinary Numbers](https://codeforces.com/problemset/problem/1520/B)
 - [Codeforces : A. Dreamoon and Stairs](https://codeforces.com/problemset/problem/476/A)
+- [Codeforces : A. Almost Prime](https://codeforces.com/contest/26/problem/A)
