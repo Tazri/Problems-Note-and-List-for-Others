@@ -43,3 +43,4 @@
 - [Codeforces : A. Draw a Square](https://codeforces.com/contest/2074/problem/A)
 - [Codeforces : A. Arithmetic Array](https://codeforces.com/problemset/problem/1537/A)
 - [Codeforces : B. Who's Opposite?](https://codeforces.com/problemset/problem/1560/B)
+- [Codeforces : B. 2D Traveling](https://codeforces.com/problemset/problem/1869/B)

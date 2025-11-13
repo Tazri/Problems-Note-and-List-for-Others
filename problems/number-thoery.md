@@ -14,3 +14,4 @@
 - [Codeforces : B. Ordinary Numbers](https://codeforces.com/problemset/problem/1520/B)
 - [Codeforces : A. Dreamoon and Stairs](https://codeforces.com/problemset/problem/476/A)
 - [Codeforces : A. Almost Prime](https://codeforces.com/contest/26/problem/A)
+- [Codeforces : C. Product of Three Numbers](https://codeforces.com/problemset/problem/1294/C)
