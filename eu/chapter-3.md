@@ -1,10 +1,14 @@
+## rmv
+
+- [AtCoder : A - Rotate](https://atcoder.jp/contests/abc235/tasks/abc235_a?lang=en)
+- [AtCoder : A - Attack](https://atcoder.jp/contests/abc302/tasks/abc302_a?lang=en)
+- [CSES : https://cses.fi/problemset/task/1071](https://cses.fi/problemset/)
 - [Codeforces : A. Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A)
 - [Codeforces : A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A)
+
 - [CodeChef : Yearly Phone Practice Coding Problem](https://www.codechef.com/problems/PHONEYR)
 - [CodeChef : Double Rent Practice Coding Problem](https://www.codechef.com/problems/DOUBLERENT)
 - [CodeChef : Clear Day Practice Coding Problem](https://www.codechef.com/problems/CLEARDAY)
-- [AtCoder : A - Rotate](https://atcoder.jp/contests/abc235/tasks/abc235_a?lang=en)
-- [AtCoder : A - Attack](https://atcoder.jp/contests/abc302/tasks/abc302_a?lang=en)
 - [CodeChef : Off By One Practice Coding Problem](https://www.codechef.com/problems/OFFBY1)
 - [CodeChef : 2000 Practice Coding Problem](https://www.codechef.com/problems/RIP2000)
 - [CodeChef : Food Costs Practice Coding Problem](https://www.codechef.com/problems/FOODCOST)
@@ -29,4 +33,9 @@
 - [CodeChef : Weightlifting](https://www.codechef.com/problems/WEIGHTLIFT)
 - [CodeChef : Heat Wave](https://www.codechef.com/problems/HEATWAVE)
 - [CodeChef : RCB vs CSK](https://www.codechef.com/problems/RCBCSK)
-- [CSES : https://cses.fi/problemset/task/1071](https://cses.fi/problemset/)
+
+- [Codechef : Water Park](https://www.codechef.com/problems/SPCP1)
+- [Aizu : Small, Large, or Equal](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_2_A)
+- [Aizu : Sorting Three Numbers](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_2_C)
+- [Toph : Clock Math](https://toph.co/p/clock-math)
+- [Toph : Fair Distribution](https://toph.co/p/fair-distribution)
