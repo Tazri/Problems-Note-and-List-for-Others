@@ -39,3 +39,10 @@
 - [Aizu : Sorting Three Numbers](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_2_C)
 - [Toph : Clock Math](https://toph.co/p/clock-math)
 - [Toph : Fair Distribution](https://toph.co/p/fair-distribution)
+
+- [Toph : Print Your Victory](https://toph.co/p/a-print-your-victory)
+- [Toph : Formatted Numbers](https://toph.co/p/formatted-numbers)
+- [Aizu : X Cubic](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_B)
+- [Aizu : Circle in a Rectangle](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_2_D)
+- [Aizu : Circle](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_B)
+- [CSAcademy : 8 Divisible](https://csacademy.com/contest/archive/task/8-divisible/)
