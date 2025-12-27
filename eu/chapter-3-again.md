@@ -1,0 +1,11 @@
+- [AtCoder : A - Rotate](https://atcoder.jp/contests/abc235/tasks/abc235_a?lang=en)
+- [AtCoder : A - Attack](https://atcoder.jp/contests/abc302/tasks/abc302_a?lang=en)
+- [Codeforces : A. Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A)
+- [Codeforces : A. Watermelon](https://codeforces.com/problemset/problem/4/A)
+- [Codeforces : A. Domino piling](https://codeforces.com/problemset/problem/50/A)
+
+- [Codeforces : A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)
+- [Codeforces : A. Hit the Lottery](https://codeforces.com/problemset/problem/996/A)
+- [Codeofrces : A. Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A)
+- [Codeforces : A. The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A)
+- [Codeforces : A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)
