@@ -8,3 +8,4 @@
 - [A. Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)
 - [Codeforces : A. String Task](https://codeforces.com/problemset/problem/118/A)
 - [Codeforces : C. Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C)
+- [Codeforces : B. Sum of Digits](https://codeforces.com/problemset/problem/102/B)

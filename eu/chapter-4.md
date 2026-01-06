@@ -1,0 +1,23 @@
+- [A. Codeforces Checking](https://codeforces.com/problemset/problem/1791/A) 2
+- [A. Medium Number](https://codeforces.com/problemset/problem/1760/A) 2
+- [A. To My Critics](https://codeforces.com/problemset/problem/1850/A) 3
+- [A. Stair, Peak, or Neither?](https://codeforces.com/problemset/problem/1950/A) 3
+- [A. Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A) 4
+- [A. Floor Number](https://codeforces.com/problemset/problem/1426/A) 5
+- [A. Fair Playoff](https://codeforces.com/problemset/problem/1535/A) 10
+- [A. My First Sorting Problem](https://codeforces.com/problemset/problem/1971/A) 2
+- [A. Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) 20
+- [A. Most Unstable Array](https://codeforces.com/contest/1353/problem/A) 22
+- [A. Park Lighting](https://codeforces.com/contest/1358/problem/A) 5
+- [A. Elections](https://codeforces.com/problemset/problem/1593/A) 10
+- [A. Elephant](https://codeforces.com/problemset/problem/617/A) 5
+- [A. Lucky Division](https://codeforces.com/problemset/problem/122/A) 30
+- [Digits](https://eolymp.com/en/problems/2) 10
+- [Sum of integers on the interval](https://eolymp.com/en/problems/2860) 5
+- [A. Forgotten Episode](https://codeforces.com/problemset/problem/440/A) 10
+- [Missing Number](https://cses.fi/problemset/task/1083) 10
+- [A. Hulk](https://codeforces.com/problemset/problem/705/A) 5
+- [A. Expression](https://codeforces.com/problemset/problem/479/A) 13
+- [Weird Algorithm](https://cses.fi/problemset/task/1068) 50
+- [Increasing Array](https://cses.fi/problemset/task/1094) 100
+- [Permutations](https://cses.fi/problemset/task/1070) 150
