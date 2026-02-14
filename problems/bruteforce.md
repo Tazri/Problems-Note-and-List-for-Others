@@ -7,3 +7,6 @@
 - [Codeforces : A. Maximum in Table](https://codeforces.com/contest/509/problem/A)
 - [Codeforces : B. Petya and Countryside](https://codeforces.com/problemset/problem/66/B)(1100 rating, bruteforcs for small array.)
 - [Codeforces : A. Petr and Book](https://codeforces.com/problemset/problem/139/A)(1000 rating, implementation and bruteforces)
+- [Codeforces : A. Ebony and Ivory](https://codeforces.com/problemset/problem/633/A)
+- [Atcoder : B - How many?](https://atcoder.jp/contests/abc214/tasks/abc214_b)
+- [Atcider : B - Sum of Three Integers](https://atcoder.jp/contests/abc051/tasks/abc051_b)
