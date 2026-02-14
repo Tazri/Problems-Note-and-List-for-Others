@@ -1,0 +1,1 @@
+- [A. DBMB and the Array](https://codeforces.com/contest/2193/problem/A)(800 rating, contribution of x on difference)

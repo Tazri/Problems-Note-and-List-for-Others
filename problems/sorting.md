@@ -9,3 +9,6 @@
 - [Codeforces : C. Less or Equal](https://codeforces.com/problemset/problem/977/C)
 - [Codeforces : B. Honest Coach](https://codeforces.com/problemset/problem/1360/B)
 - [Codeforces : B. Increasing](https://codeforces.com/problemset/problem/1742/B)
+- [Codeforces : B. Choosing Cubes](https://codeforces.com/problemset/problem/1980/B)(800 rating, simple sorting and cnt)
+- [Codeforces : B. Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B)(1000 rating, geometry+sorting and sliding window)
+- [Codeforces : A. Array Coloring](https://codeforces.com/contest/2191/problem/A)(800 rating, pairty + sorting tricks)

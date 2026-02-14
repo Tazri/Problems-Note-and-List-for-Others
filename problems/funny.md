@@ -1,3 +1,4 @@
 - [Codeforces : A. The Bento Box Adventure](https://codeforces.com/problemset/problem/2041/A)
 - [Codeforces : A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A)
 - [Codeforces : A. Complicated GCD](https://codeforces.com/problemset/problem/664/A)
+- [Codeforces : B. Lovely Palindromes](https://codeforces.com/problemset/problem/688/B)(1000 rating, palindromes, observation problem)

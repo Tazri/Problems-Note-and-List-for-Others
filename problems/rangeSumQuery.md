@@ -1,0 +1,1 @@
+- [Codeforces : C. Replace and Sum](https://codeforces.com/contest/2193/problem/C)(1000 rating, change array to maximum the query ans, greedy)

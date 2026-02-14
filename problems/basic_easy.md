@@ -27,3 +27,9 @@
 - [Codeforces : A. Elections](https://codeforces.com/problemset/problem/1593/A)
 - [Codeforces : A. Polycarp and the Day of Pi](https://codeforces.com/problemset/problem/1790/A)
 - [Codeforces : A. Deletions of Two Adjacent Letters](https://codeforces.com/problemset/problem/1650/A)
+- [Codeforces : A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) (800 rating, easy implementation)
+
+## Sorting
+
+- [Codeforces : B. Choosing Cubes](https://codeforces.com/problemset/problem/1980/B)(800 rating, simple sorting and cnt)
+- [Codefores : A. Sasha and Array Coloring](https://codeforces.com/problemset/problem/1843/A)(800 rating, two pointer on sorted array)

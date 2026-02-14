@@ -1,0 +1,1 @@
+- [Codeforces : B. Prefix Sum Addicts](https://codeforces.com/contest/1738/problem/B)

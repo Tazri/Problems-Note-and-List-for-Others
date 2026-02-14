@@ -1,0 +1,2 @@
+- [Codeforces : B. Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B)(1000 rating, geometry+sorting and sliding window)
+- [Codeforces : B. Fence](https://codeforces.com/problemset/problem/363/B)(1100 rating, sliding window to find minimum sum)

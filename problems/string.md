@@ -19,3 +19,6 @@
 - [Codeforces : B. Construct the String](https://codeforces.com/contest/1335/problem/B)
 - [Codeforces : A. Polycarp and the Day of Pi](https://codeforces.com/problemset/problem/1790/A)
 - [Codeforces : A. Deletions of Two Adjacent Letters](https://codeforces.com/problemset/problem/1650/A)
+- [Codeforces : A. Soroban](https://codeforces.com/problemset/problem/363/A)(800 rating, simple implementation, mp logic, number and string pair)
+- [Codeforces : B. Delete from the Left](https://codeforces.com/contest/1005/problem/B)(900 rating, two pointer, reverse two pointer with string, string similarity)
+- [A. New Year String](https://codeforces.com/contest/2182/problem/A)(800 rating, very basic, search sub strings)

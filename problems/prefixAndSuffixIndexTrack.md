@@ -1,0 +1,2 @@
+- [Codeforces : B. Petya and Countryside](https://codeforces.com/problemset/problem/66/B)(1100 rating, track where water stop forward and backward index.)
+- [Codeforces : B. Vika and Squares](https://codeforces.com/contest/610/problem/B)(1300 rating, prefix circular index tracking)

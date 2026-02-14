@@ -6,3 +6,4 @@
 - [Codeforces : B. Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B)
 - [Codeforces : A. Special Permutation](https://codeforces.com/contest/1454/problem/A)
 - [Codeforces : B. Construct the String](https://codeforces.com/contest/1335/problem/B)
+- [Codeforces : A. Divisible Permutation](https://codeforces.com/contest/2188/problem/A)(800 rating, peromutaiton and constructive algorithm)

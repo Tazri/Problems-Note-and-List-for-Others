@@ -1,0 +1,1 @@
+- [Codeforces : A. Shaass and Oskols](https://codeforces.com/problemset/problem/294/A) (800 rating, array implementation with handle multiple query)

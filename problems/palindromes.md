@@ -1,0 +1,1 @@
+- [Codeforces : B. Lovely Palindromes](https://codeforces.com/problemset/problem/688/B)(1000 rating, palindromes, observation problem)
