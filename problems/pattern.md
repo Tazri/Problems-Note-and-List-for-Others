@@ -4,6 +4,7 @@
 - [Codeforces : B. Upscaling](https://codeforces.com/contest/1950/problem/B)(800 rating, printing pattern)
 - [Codeforces : A. Fox And Snake](https://codeforces.com/problemset/problem/510/A)(800 rating, printing pattern)
 - [B. Vlad and Shapes](https://codeforces.com/problemset/problem/1926/B)(800 rating, pattern detecting, trianlge or square detecting)
+- [Codeforces : B. Present from Lena](https://codeforces.com/contest/118/problem/B)(1000 rating, print diamond with number layer)
 
 ## Others
 

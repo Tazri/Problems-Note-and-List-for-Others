@@ -12,3 +12,7 @@
 - [Codeforces : A. Binary Array Game](https://codeforces.com/contest/2183/problem/A)(800 rating, game, simple observation)
 - [B. Yet Another MEX Problem](https://codeforces.com/contest/2183/problem/B)(1100 rating, mex problem + observation)
 - [Codeforces : B. MEX Reordering](https://codeforces.com/contest/2191/problem/B)(1000 rating, mex problem + observation)
+- [Codeforces : A. Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A)(800 rating, prime and pairty tricks, math observation)
+
+- [Codeforces : A. Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A)(1000 rating, simple observation on uncommon Subsequence)
+- [Codeforces : A. Omkar and Completion](https://codeforces.com/contest/1372/problem/A)(800 rating, simple observation and constructive)

@@ -1,1 +1,3 @@
 - [Codeforces : A. Shaass and Oskols](https://codeforces.com/problemset/problem/294/A) (800 rating, array implementation with handle multiple query)
+- [Codeforces : A. Reconnaissance 2](https://codeforces.com/contest/34/problem/A)(800 rating, circular array)
+- [Codeforces : A. Thorns and Coins](https://codeforces.com/contest/1932/problem/A)(800 rating, count and proper use of loop break)

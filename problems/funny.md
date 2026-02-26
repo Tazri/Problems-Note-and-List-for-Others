@@ -2,3 +2,4 @@
 - [Codeforces : A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A)
 - [Codeforces : A. Complicated GCD](https://codeforces.com/problemset/problem/664/A)
 - [Codeforces : B. Lovely Palindromes](https://codeforces.com/problemset/problem/688/B)(1000 rating, palindromes, observation problem)
+- [Codeforces : A. Omkar and Completion](https://codeforces.com/contest/1372/problem/A)(800 rating, simple observation and constructive)

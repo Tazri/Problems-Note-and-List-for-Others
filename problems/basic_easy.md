@@ -32,4 +32,25 @@
 ## Sorting
 
 - [Codeforces : B. Choosing Cubes](https://codeforces.com/problemset/problem/1980/B)(800 rating, simple sorting and cnt)
-- [Codefores : A. Sasha and Array Coloring](https://codeforces.com/problemset/problem/1843/A)(800 rating, two pointer on sorted array)
+- [Codeforces : A. Sasha and Array Coloring](https://codeforces.com/problemset/problem/1843/A)(800 rating, two pointer on sorted array)
+- [Codeforces : A. Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A)(800 rating, sorting)
+
+## string and setmap
+
+- [Codeforces : A. Musical Puzzle](https://codeforces.com/contest/1833/problem/A)(800 rating, track pairwise string)
+
+## Counting
+
+- [Codeforces : A. Rudolph and Cut the Rope](https://codeforces.com/contest/1846/problem/A)(800 rating, counting simple)
+
+## Bit
+
+- [Codeforces : A. XORwice](https://codeforces.com/contest/1421/problem/A)(800 rating, simple observation and xor operation)
+
+## Geometry
+
+- [Codeforces : B. The Third Side](https://codeforces.com/contest/2074/problem/B)(800 rating, geometry, Triangle side rules)
+
+## ASCII
+
+- [Codeforces : C. Most Similar Words](https://codeforces.com/contest/1676/problem/C)(800 rating, calculate distance from two char)

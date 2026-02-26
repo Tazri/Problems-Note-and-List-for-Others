@@ -16,6 +16,8 @@
 - [C. Greg and Array](https://codeforces.com/contest/296/problem/C)(1400 rating, using partial sum on update query and how many time times update)
 - [Codeforces : C. Little Girl and Maximum Sum](https://codeforces.com/problemset/problem/276/C)(1500 rating, partial sum+contribution count technique)
 
+- [Codeforces : F. Equalize the Array](https://codeforces.com/problemset/problem/1490/F)(1500 rating, partial sum on frequecny to find optimal answer)
+
 ## Prefix Sum + Binary Search
 
 - [B. Worms](https://codeforces.com/problemset/problem/474/B)(prefix sum and binary search or two pointer , 900 rating)

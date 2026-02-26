@@ -5,3 +5,6 @@
 - [Codeforces : A. Pashmak and Garden](https://codeforces.com/problemset/problem/459/A)
 - [Codeforces : A. Draw a Square](https://codeforces.com/contest/2074/problem/A)
 - [Codeforces : B. Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B)(1000 rating, geometry+sorting and sliding window)
+- [Codeforces : A. Filling Shapes](https://codeforces.com/contest/1182/problem/A)(1000 rating, Combinetrics and geomatrey)
+- [Codeforces : B. The Third Side](https://codeforces.com/contest/2074/problem/B)(800 rating, geometry, Triangle side rules)
+- [Codeforces : A. Filling Diamonds](https://codeforces.com/contest/1339/problem/A)(900 rating, simple geomatrey and Combinetrics)

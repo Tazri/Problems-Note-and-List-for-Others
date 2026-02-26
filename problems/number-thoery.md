@@ -15,3 +15,4 @@
 - [Codeforces : A. Dreamoon and Stairs](https://codeforces.com/problemset/problem/476/A)
 - [Codeforces : A. Almost Prime](https://codeforces.com/contest/26/problem/A)
 - [Codeforces : C. Product of Three Numbers](https://codeforces.com/problemset/problem/1294/C)
+- [Codeforces : A. Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A)(800 rating, prime and pairty tricks, math observation)

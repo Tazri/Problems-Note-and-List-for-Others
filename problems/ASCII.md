@@ -1,0 +1,1 @@
+- [Codeforces : C. Most Similar Words](https://codeforces.com/contest/1676/problem/C)(800 rating, calculate distance from two char)

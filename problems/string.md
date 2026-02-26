@@ -11,7 +11,6 @@
 - [Codeforces : B. Colourblindness](https://codeforces.com/problemset/problem/1722/B)
 - [Codeforces : A. Night at the Museum](https://codeforces.com/problemset/problem/731/A)
 - [Codeforces : A. Trippi Troppi](https://codeforces.com/problemset/problem/2094/A)
-- [Codeforces : B. Lecture](https://codeforces.com/problemset/problem/499/B)
 - [Codeforces : C. Clock Conversion](https://codeforces.com/problemset/problem/1950/C)
 - [Codeforces : A. Keyboard](https://codeforces.com/problemset/problem/474/A)
 - [Codeforces : A. Magic Numbers](https://codeforces.com/contest/320/problem/A)
@@ -22,3 +21,8 @@
 - [Codeforces : A. Soroban](https://codeforces.com/problemset/problem/363/A)(800 rating, simple implementation, mp logic, number and string pair)
 - [Codeforces : B. Delete from the Left](https://codeforces.com/contest/1005/problem/B)(900 rating, two pointer, reverse two pointer with string, string similarity)
 - [A. New Year String](https://codeforces.com/contest/2182/problem/A)(800 rating, very basic, search sub strings)
+- [Codeforces : A. Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A)(800 rating, too much if else condition to compare two string based on certian rules)
+
+- [Codeforces : B. Lecture](https://codeforces.com/problemset/problem/499/B)(1000 rating, string string map)
+- [Codeforces : C. Cd and pwd commands](https://codeforces.com/contest/158/problem/C)(1400 rating, stack + string problem)
+- [Codeforces : B. Little Girl and Game](https://codeforces.com/problemset/problem/276/B)(1300 rating, palindromes + string)

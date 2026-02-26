@@ -7,3 +7,4 @@
 
 - [Codeforces : B. BerSU Ball](https://codeforces.com/problemset/problem/489/B)
 - [Codefores : A. Sasha and Array Coloring](https://codeforces.com/problemset/problem/1843/A)(800 rating, two pointer on sorted array)
+- [Codeforces : B. Quality vs Quantity](https://codeforces.com/problemset/problem/1646/B)(800 rating, two pointer on sorted array)
