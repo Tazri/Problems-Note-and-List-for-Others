@@ -13,3 +13,5 @@
 - [Codeforces : B. Lecture](https://codeforces.com/problemset/problem/499/B)(1000 rating, string string map)
 - [Codeforces : C. Registration system](https://codeforces.com/problemset/problem/4/C)(1300 rating, Map key string problem)
 - [Codeforces : B. Radio Station](https://codeforces.com/problemset/problem/918/B)(900 rating, map + string to process command and show output)
+- [Codefores : B. T-shirt buying](https://codeforces.com/contest/799/problem/B)(1400 rating, priority queue or multiset, implementation heavy, map)
+- [Codeforcs : A. Anton and Letters](https://codeforces.com/problemset/problem/443/A)(800 rating, simple distance character count using set)

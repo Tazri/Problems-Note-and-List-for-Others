@@ -8,3 +8,5 @@
 - [Codeforces : A. Filling Shapes](https://codeforces.com/contest/1182/problem/A)(1000 rating, Combinetrics and geomatrey)
 - [Codeforces : B. The Third Side](https://codeforces.com/contest/2074/problem/B)(800 rating, geometry, Triangle side rules)
 - [Codeforces : A. Filling Diamonds](https://codeforces.com/contest/1339/problem/A)(900 rating, simple geomatrey and Combinetrics)
+
+- [Codeforces : A. Pasha and Stick](https://codeforces.com/problemset/problem/610/A)(1000 rating, condition to become rectangle on 4 side)

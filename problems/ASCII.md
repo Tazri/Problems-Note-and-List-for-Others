@@ -1,1 +1,4 @@
 - [Codeforces : C. Most Similar Words](https://codeforces.com/contest/1676/problem/C)(800 rating, calculate distance from two char)
+- [Codeforces : A. A+B?](https://codeforces.com/problemset/problem/1772/A)(800 rating , string ASCII convert to number)
+- [Codeforces : B. Atilla's Favorite Problem](https://codeforces.com/problemset/problem/1760/B)(800 rating, string + ASCII)
+- [AIZU : Sum of Numbers](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_B)(using string ASCII)

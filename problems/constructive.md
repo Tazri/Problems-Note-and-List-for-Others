@@ -10,3 +10,8 @@
 - [Codeforces : B. Aleksa and Stack](https://codeforces.com/contest/1878/problem/B)(800 rating, constructive algorithm withs simple observation)
 - [Codeforces : A. Omkar and Completion](https://codeforces.com/contest/1372/problem/A)(800 rating, simple observation and constructive)
 - [Codeforces : B. Balanced Array](https://codeforces.com/problemset/problem/1343/B)(800 rating, Basic math tricks, constructive)
+- [Codeforces : G. Even-Odd XOR](https://codeforces.com/problemset/problem/1722/G)(1500 rating, xor problem on contructive algorithm)
+
+- [Codeforces : C. Numbers on Whiteboard](https://codeforces.com/contest/1430/my)(1000 rating, Priority queue + constructive algorithm)
+
+- [Codeforces : A. Array](https://codeforces.com/problemset/problem/300/A)(1100 rating, simple constructive)

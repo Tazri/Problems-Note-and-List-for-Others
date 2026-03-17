@@ -39,11 +39,15 @@
 - [Codeforces : A. Vasya and Socks](https://codeforces.com/contest/460/problem/A)
 - [Codeforces : A. New Year Candles](https://codeforces.com/problemset/problem/379/A)
 - [Codeforces : A. Collecting Coins](https://codeforces.com/problemset/problem/1294/A)
+
 - [Codeforces : D. Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D)(LCM)
+- [Codeforces : B. Right Maximum](https://codeforces.com/contest/2204/problem/B)(unrated, LCM tricks use to calculate)
+
 - [Codeforces : A. Draw a Square](https://codeforces.com/contest/2074/problem/A)
 - [Codeforces : A. Arithmetic Array](https://codeforces.com/problemset/problem/1537/A)
 - [Codeforces : B. Who's Opposite?](https://codeforces.com/problemset/problem/1560/B)
 - [Codeforces : B. 2D Traveling](https://codeforces.com/problemset/problem/1869/B)
+
 - [Codeforces : A. GCD vs LCM](https://codeforces.com/contest/1665/problem/A)(GCD & LCM Trics)
 - [Codeforces : A. Supermarket](https://codeforces.com/problemset/problem/919/A) ( Fractional math, 800 rating, LCM and GCD need to solve using integer sorting, otherwise solve with double type)
 - [Codeforces : A. Food for Animals](https://codeforces.com/problemset/problem/1675/A)(800 rating, simple addition, Subtracttion math)
@@ -57,3 +61,16 @@
 - [Codeofrces : B. Buttons](https://codeforces.com/problemset/problem/268/B)(1000 rating, math+hard observation + AP)
 - [Codeforces : B. Balanced Array](https://codeforces.com/problemset/problem/1343/B)(800 rating, Basic math tricks, constructive)
 - [Codeforcs : A. GCD Sum](https://codeforces.com/problemset/problem/1498/A)(800 rating, GCD, sum of digits and disiable by 3 rules)
+
+## Math Series Calculation
+
+- [Spoj : ZSUM - Just Add It](https://www.spoj.com/problems/ZSUM/en/)(Series of math calculation + bigmod)
+
+## Logarithm
+
+- [Codeforces : B. High School: Become Human](https://codeforces.com/problemset/problem/987/B)(1100 rating, logrithom, big number compare)
+- [UVA : 11029 - Leading and Trailing](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1970)(Find the leading digits of n^k)
+
+## Basic Factorial
+
+- [Toph : N Factorial!](https://toph.co/p/n-factorial)(Just Factorial Tricks)

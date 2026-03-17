@@ -17,3 +17,13 @@
 - [CodeChef : Odd Topic](https://www.codechef.com/problems/ODTPIC)(N/A Difficulty,Parital Xr and using of bitset array)
 
 - [Codeforces : C. Divan and bitwise operations](https://codeforces.com/problemset/problem/1614/C)(1500 rating, deep calculate on sum of subsequnce of xor and 'or' relation)
+
+- [Codeforces : A. Convolution XOR SUM](https://codeforces.com/gym/104333/problem/A)(gym, xor permutation and two array)
+
+- [Codeforces : A. Bits](https://codeforces.com/problemset/problem/484/A)(1700 rating, bit Manipulations, find something in range)
+
+- [Codeforces : A. Absolute Maximization](https://codeforces.com/problemset/problem/1763/A)(800 rating, simple observation to understand that, `or` and `and` all numbers)
+
+- [Codeforces : G. Even-Odd XOR](https://codeforces.com/problemset/problem/1722/G)(1500 rating, xor problem on contructive algorithm)
+
+- [Codeforces : D. Sum of XOR Functions](https://codeforces.com/problemset/problem/1879/D)(1700 rating, bit, prefix xor, combinetrics and deep contribution)

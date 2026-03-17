@@ -26,3 +26,5 @@
 - [Codeforces : B. Lecture](https://codeforces.com/problemset/problem/499/B)(1000 rating, string string map)
 - [Codeforces : C. Cd and pwd commands](https://codeforces.com/contest/158/problem/C)(1400 rating, stack + string problem)
 - [Codeforces : B. Little Girl and Game](https://codeforces.com/problemset/problem/276/B)(1300 rating, palindromes + string)
+
+- [Codeforcs : A. Anton and Letters](https://codeforces.com/problemset/problem/443/A)(800 rating, simple distance character count using set)

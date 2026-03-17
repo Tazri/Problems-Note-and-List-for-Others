@@ -10,3 +10,5 @@
 - [Codeforces : A. Ebony and Ivory](https://codeforces.com/problemset/problem/633/A)
 - [Atcoder : B - How many?](https://atcoder.jp/contests/abc214/tasks/abc214_b)
 - [Atcider : B - Sum of Three Integers](https://atcoder.jp/contests/abc051/tasks/abc051_b)
+
+- [Codeforces : F. 3SUM](https://codeforces.com/problemset/problem/1692/F)(1300 rating, bruteforces on all combination)

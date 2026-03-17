@@ -8,3 +8,6 @@
 - [A. Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)
 - [Codeforces : A. String Task](https://codeforces.com/problemset/problem/118/A)
 - [Codeforces : C. Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C)
+
+- [Lightoj : Large Division](https://lightoj.com/problem/large-division)(Easy, Implement division process)
+- [Codefores : B. T-shirt buying](https://codeforces.com/contest/799/problem/B)(1400 rating, priority queue or multiset, implementation heavy, map)
