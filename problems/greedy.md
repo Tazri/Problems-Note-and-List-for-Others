@@ -8,3 +8,5 @@
 - [Codeforces : B. Restaurant](https://codeforces.com/problemset/problem/597/B)(1600 rating, intervel sort + greedy)
 
 - [Codeforces : B. Wilbur and Array](https://codeforces.com/problemset/problem/596/B)(1100 rating, greedy on pairwise absulote difference)
+
+- [Codeforces : A. Strange Birthday Party](https://codeforces.com/problemset/problem/1470/A)(1300 rating, greedy)

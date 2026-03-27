@@ -1,0 +1,1 @@
+- [Codeforces : B. Right Maximum](https://codeforces.com/contest/2204/problem/B)(unratted, prefix max)

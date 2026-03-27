@@ -15,3 +15,5 @@
 - [Codeforces : A. Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A)(800 rating, sorting)
 
 - [Codeforces : B. Restaurant](https://codeforces.com/problemset/problem/597/B)(1600 rating, intervel sort + greedy)
+
+- [Codeoforces : B. Polycarp's Practice](https://codeforces.com/problemset/problem/1006/B)(1200 rating, sorting + constructive, sorting to choose selecting max)

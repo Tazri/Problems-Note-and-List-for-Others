@@ -15,3 +15,9 @@
 - [Codeforces : C. Numbers on Whiteboard](https://codeforces.com/contest/1430/my)(1000 rating, Priority queue + constructive algorithm)
 
 - [Codeforces : A. Array](https://codeforces.com/problemset/problem/300/A)(1100 rating, simple constructive)
+
+- [Codeforces : A. Bachgold Problem](https://codeforces.com/problemset/problem/749/A)(800 rating, greedy way constructive)
+
+- [Codeforces : B. Relatively Prime Pairs](https://codeforces.com/problemset/problem/1051/B)(1000 rating, constructive algorithm using basic number theory)
+
+- [Codeforces : A. Rigged!](https://codeforces.com/contest/1879/problem/A)(800 rating, simple constructive)

@@ -43,3 +43,13 @@
 ### Practice
 
 - [Eolymp : Modular division](https://eolymp.com/en/problems/9606)(easy, calculate inverse)
+
+- [Lightoj : Goldbach's Conjecture](https://lightoj.com/problem/goldbach-s-conjecture)
+
+- [Spoj : DIVFACT - Divisors of factorial](https://www.spoj.com/problems/DIVFACT/en/)(prime factorization or use ligendree)
+
+- [Codeforces : D. Divisible Pairs](https://codeforces.com/problemset/problem/1931/D)(1300 rating, moduler tricks to grouping and count pair)
+
+- [Codeforces : D. Divide and Equalize](https://codeforces.com/problemset/problem/1881/D)(1300 rating, prime factorization)
+
+- [Lightoj : Ekka Dokka](https://lightoj.com/problem/ekka-dokka)(LOJ 1116, EASY, two factorization)

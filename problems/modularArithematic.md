@@ -11,6 +11,11 @@
 - [Codeforces : F. Modulo](https://codeforces.com/gym/103860/problem/F)(Gym, modular Arithmetics + sub set)
 
 - [Codeforces : I. Abu Tahun Mod problem](https://codeforces.com/gym/102035/problem/I)(Gym, modular Arithmetics and palindrome tricks)
+- [Codeforces : D. Divisible Pairs](https://codeforces.com/problemset/problem/1931/D)(1300 rating, moduler tricks to grouping and count pair)
+
+## Lightoj
+
+- [Codeforces : Integer Divisibility](https://lightoj.com/problem/integer-divisibility)(LOJ-1078, Medium modular arithmetics way to build number)
 
 ## Toph
 

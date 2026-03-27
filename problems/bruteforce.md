@@ -12,3 +12,9 @@
 - [Atcider : B - Sum of Three Integers](https://atcoder.jp/contests/abc051/tasks/abc051_b)
 
 - [Codeforces : F. 3SUM](https://codeforces.com/problemset/problem/1692/F)(1300 rating, bruteforces on all combination)
+
+- [Codeforecs : B. Array](https://codeforces.com/contest/2209/problem/B)(unrated, bruteforces or policy based data structure)
+
+- [Codeforces: C. A and B and Team Training](https://codeforces.com/problemset/problem/519/C)(1300 rating, bruteforces + greedy+math)
+
+- [Codeforces : C. Di-visible Confusion](https://codeforces.com/problemset/problem/1604/C)(1300 rating, LCM tricks, why find bruteforces work here ?)

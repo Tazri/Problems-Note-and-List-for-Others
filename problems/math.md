@@ -74,3 +74,7 @@
 ## Basic Factorial
 
 - [Toph : N Factorial!](https://toph.co/p/n-factorial)(Just Factorial Tricks)
+
+## Geometric Progression
+
+- [Codeforces : E1. Rudolf and Snowflakes (simple version)](https://codeforces.com/problemset/problem/1846/E1)(1300 rating, use of geomatric prograssion + divisors)

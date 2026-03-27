@@ -10,3 +10,5 @@
 - [Codeforces : A. Filling Diamonds](https://codeforces.com/contest/1339/problem/A)(900 rating, simple geomatrey and Combinetrics)
 
 - [Codeforces : A. Pasha and Stick](https://codeforces.com/problemset/problem/610/A)(1000 rating, condition to become rectangle on 4 side)
+
+- [Codeforces : C. Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C)(1500 rating, geomatrey + greedy)

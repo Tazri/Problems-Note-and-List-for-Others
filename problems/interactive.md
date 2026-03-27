@@ -6,4 +6,6 @@
 
 - [Codeforces : E. Interview](https://codeforces.com/problemset/problem/1807/E)(1300 rating, interactive, binary search)
 
+- [Codeforces : C. Find the Zero](https://codeforces.com/contest/2209/problem/C)(unrated, tricky way thinking, solve little then think about the bigger later.)
+
 - [Toph : A New Tough Game](https://toph.co/p/a-new-tough-game)

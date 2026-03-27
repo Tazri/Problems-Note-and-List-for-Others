@@ -16,3 +16,7 @@
 
 - [Codeforces : A. Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A)(1000 rating, simple observation on uncommon Subsequence)
 - [Codeforces : A. Omkar and Completion](https://codeforces.com/contest/1372/problem/A)(800 rating, simple observation and constructive)
+
+- [Codeforces : B. Cost of the Array](https://codeforces.com/contest/2059/problem/B)(1300 rating, observation)
+
+- [Codeforces : D. Strong Vertices](https://codeforces.com/problemset/problem/1857/D)(1300 rating, observation)

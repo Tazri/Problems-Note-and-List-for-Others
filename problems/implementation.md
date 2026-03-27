@@ -11,3 +11,5 @@
 
 - [Lightoj : Large Division](https://lightoj.com/problem/large-division)(Easy, Implement division process)
 - [Codefores : B. T-shirt buying](https://codeforces.com/contest/799/problem/B)(1400 rating, priority queue or multiset, implementation heavy, map)
+
+- [Codeforces : A. Prefix and Suffix Array](https://codeforces.com/contest/1794/problem/A)(800 rating, palindrome + implemantation)

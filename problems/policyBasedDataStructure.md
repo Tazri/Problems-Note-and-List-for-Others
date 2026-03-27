@@ -1,0 +1,1 @@
+- [Codeforecs : B. Array](https://codeforces.com/contest/2209/problem/B)(unrated, bruteforces or policy based data structure)

@@ -28,6 +28,7 @@
 - [Codeforces : A. Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A)(800 rating, sorting)
 - [Codeforces : A. Cards](https://codeforces.com/problemset/problem/701/A)(800 rating, bruteforces sorting and simple number line math, bruteforces sort allowed)
 - [Codeforces : A. Remove Smallest](https://codeforces.com/problemset/problem/1399/A)(800 rating, sorting+greedy)
+- [Codeforces : A. Flip Flops](https://codeforces.com/contest/2209/problem/A)(unrated, sorting+greedy)
 
 ## string and setmap
 

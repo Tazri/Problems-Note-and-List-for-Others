@@ -13,3 +13,5 @@
 - [Codeforces : C. Beautiful Numbers](https://codeforces.com/problemset/problem/300/C)(1800 rating, heavy combinetrics, bruteforces)
 
 - [CSES : Creating Strings II](https://cses.fi/problemset/task/1715)(Basic school combinetrics problem, how many word can form by rearraning words)
+
+- [Codeforces : C. Make it Alternating](https://codeforces.com/problemset/problem/1879/C)(1300 rating, combinetrics)

@@ -27,3 +27,7 @@
 - [Codeforces : G. Even-Odd XOR](https://codeforces.com/problemset/problem/1722/G)(1500 rating, xor problem on contructive algorithm)
 
 - [Codeforces : D. Sum of XOR Functions](https://codeforces.com/problemset/problem/1879/D)(1700 rating, bit, prefix xor, combinetrics and deep contribution)
+
+- [Codeforces : H. Maximal AND](https://codeforces.com/problemset/problem/1669/H)(1300 rating, greedy way to make 1)
+
+- [Codeforces : B. Gardener and the Array](https://codeforces.com/problemset/problem/1775/B)(1300 rating, bitwise or on sub sequence)
