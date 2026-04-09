@@ -53,3 +53,9 @@
 - [Codeforces : D. Divide and Equalize](https://codeforces.com/problemset/problem/1881/D)(1300 rating, prime factorization)
 
 - [Lightoj : Ekka Dokka](https://lightoj.com/problem/ekka-dokka)(LOJ 1116, EASY, two factorization)
+
+- [Codeforces : D. Taxes](https://codeforces.com/problemset/problem/735/D)(1600 rating, use of goldbach conjecture)
+
+- [Codeforces : B. Bash's Big Day](https://codeforces.com/problemset/problem/757/B)(1400 rating, simple prime factorization)
+
+- [Codeforces : D. The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D)(constructive, primes + gcd tricks + simple sieve)

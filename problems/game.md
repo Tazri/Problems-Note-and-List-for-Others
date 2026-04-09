@@ -5,3 +5,4 @@
 - [Codeforces : A. Game With Sticks](https://codeforces.com/problemset/problem/451/A)
   [Codeforces : A. Wallet Exchange](https://codeforces.com/problemset/problem/1919/A)(800 rating, + greedy, parity, game)
 - [Codeforces : A. Binary Array Game](https://codeforces.com/contest/2183/problem/A)(800 rating, game, simple observation)
+- [Codeforces : A. Game with a Fraction](https://codeforces.com/contest/2196/problem/A)(1200 rating, basic math observation + game)

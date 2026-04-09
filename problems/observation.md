@@ -20,3 +20,7 @@
 - [Codeforces : B. Cost of the Array](https://codeforces.com/contest/2059/problem/B)(1300 rating, observation)
 
 - [Codeforces : D. Strong Vertices](https://codeforces.com/problemset/problem/1857/D)(1300 rating, observation)
+
+- [Codeforces : A. Antimedian Deletion](https://codeforces.com/contest/2211/problem/A)(unrated observation)
+
+- [Codeforces : G. The 67th Iteration of "Counting is Fun"](https://codeforces.com/contest/2218/problem/G)(unrated, observation on time + condition full fill)

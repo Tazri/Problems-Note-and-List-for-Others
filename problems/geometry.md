@@ -12,3 +12,5 @@
 - [Codeforces : A. Pasha and Stick](https://codeforces.com/problemset/problem/610/A)(1000 rating, condition to become rectangle on 4 side)
 
 - [Codeforces : C. Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C)(1500 rating, geomatrey + greedy)
+
+- [Codeforces : B. Shuffle](https://codeforces.com/problemset/problem/1366/B)(1300, segment intersect detect)

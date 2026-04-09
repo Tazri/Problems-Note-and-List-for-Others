@@ -78,3 +78,7 @@
 ## Geometric Progression
 
 - [Codeforces : E1. Rudolf and Snowflakes (simple version)](https://codeforces.com/problemset/problem/1846/E1)(1300 rating, use of geomatric prograssion + divisors)
+
+## Basic Math
+
+- [B. The Secret Number](https://codeforces.com/contest/2132/problem/B)(900 rating, basic math)

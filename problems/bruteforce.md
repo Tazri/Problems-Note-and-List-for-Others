@@ -18,3 +18,5 @@
 - [Codeforces: C. A and B and Team Training](https://codeforces.com/problemset/problem/519/C)(1300 rating, bruteforces + greedy+math)
 
 - [Codeforces : C. Di-visible Confusion](https://codeforces.com/problemset/problem/1604/C)(1300 rating, LCM tricks, why find bruteforces work here ?)
+
+- [Codeforces : E. The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E)(unrated, bruteforces + bits + bits observation)

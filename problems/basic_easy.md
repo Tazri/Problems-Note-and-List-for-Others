@@ -1,5 +1,9 @@
 # Basic
 
+## Very Basic
+
+- [Codeforces : A. The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A)(unrated, simple observation + math)
+
 ## Basic Math
 
 - [Codeforces : A. Park Lighting](https://codeforces.com/contest/1358/problem/A)(800 rating, basic math)
@@ -64,3 +68,4 @@
 ## Loop
 
 - [Codeforces : C. Minimum Varied Number](https://codeforces.com/problemset/problem/1714/C)(800 rating, basic on loop and greedy math)
+- [Codeforces : B. The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B)(unrated, basic greedy)

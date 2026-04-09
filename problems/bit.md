@@ -31,3 +31,5 @@
 - [Codeforces : H. Maximal AND](https://codeforces.com/problemset/problem/1669/H)(1300 rating, greedy way to make 1)
 
 - [Codeforces : B. Gardener and the Array](https://codeforces.com/problemset/problem/1775/B)(1300 rating, bitwise or on sub sequence)
+
+- [Codeforces : D. AND-array](https://codeforces.com/contest/2211/problem/D)(unrated, bits contribution technique + modular arithematics)

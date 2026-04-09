@@ -7,3 +7,11 @@
 - [Codeforces : C. Fadi and LCM](https://codeforces.com/problemset/problem/1285/C)(1400 rating, bruteforces on divisors)
 
 - [Codeforces : C. Di-visible Confusion](https://codeforces.com/problemset/problem/1604/C)(1300 rating, LCM tricks, why find bruteforces work here ?)
+
+- [Codeforces : B. Bash's Big Day](https://codeforces.com/problemset/problem/757/B)(1400 rating, simple prime factorization)
+
+- [Codeforces : D. Swords](https://codeforces.com/problemset/problem/1216/D)(1300 rating, GCD)
+
+- [Codeforces : C1. A Simple GCD Problem (Easy Version)](https://codeforces.com/contest/2210/problem/C1)(unrated, gcd + lcm tricks)
+
+- [Codeforces : C. Grid Covering](https://codeforces.com/contest/2217/problem/C)(unrated, chinese remainder theorem, gcd and lcm)

@@ -21,3 +21,8 @@
 - [Codeforces : B. Relatively Prime Pairs](https://codeforces.com/problemset/problem/1051/B)(1000 rating, constructive algorithm using basic number theory)
 
 - [Codeforces : A. Rigged!](https://codeforces.com/contest/1879/problem/A)(800 rating, simple constructive)
+
+- [Codeforces : C. The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C)(unrated, permuation + constructive + median + greedy)
+- [Codeforces : D. The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D)(constructive, primes + gcd tricks + simple sieve)
+
+- [Codeforces : F. The 67th Tree Problem](https://codeforces.com/contest/2218/problem/F)(unrated, tree contructive problem, graph)
