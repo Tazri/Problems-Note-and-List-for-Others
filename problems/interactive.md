@@ -9,3 +9,7 @@
 - [Codeforces : C. Find the Zero](https://codeforces.com/contest/2209/problem/C)(unrated, tricky way thinking, solve little then think about the bigger later.)
 
 - [Toph : A New Tough Game](https://toph.co/p/a-new-tough-game)
+
+- [Codeforcs : D2. Unique Values (Hard version)](https://codeforces.com/contest/2220/problem/D2)(unrated, interactive, binary search)( failed to find how to apply binary search)
+
+- [Codeforcs : D1. Unique Values (Easy version)](https://codeforces.com/contest/2220/problem/D1)(unrated, interactive, binary search)( failed to find how to apply binary search)

@@ -13,3 +13,4 @@
 - [Codefores : B. T-shirt buying](https://codeforces.com/contest/799/problem/B)(1400 rating, priority queue or multiset, implementation heavy, map)
 
 - [Codeforces : A. Prefix and Suffix Array](https://codeforces.com/contest/1794/problem/A)(800 rating, palindrome + implemantation)
+- [Codeforces : B. Make Connected](https://codeforces.com/problemset/problem/2161/B)(1700 rating, grid, heavy implemantation, lot of edge cases)(failed implement solution, mean failed to check zig zag)

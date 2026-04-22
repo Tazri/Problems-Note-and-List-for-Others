@@ -59,3 +59,7 @@
 - [Codeforces : B. Bash's Big Day](https://codeforces.com/problemset/problem/757/B)(1400 rating, simple prime factorization)
 
 - [Codeforces : D. The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D)(constructive, primes + gcd tricks + simple sieve)
+
+- [Codeforces : F. We Were Both Children](https://codeforces.com/problemset/problem/1850/F)(1300 rating, use of sieve, bruteforces)
+
+- [Codeforces : D. Make It Round](https://codeforces.com/contest/1759/problem/D)(1400 rating, basic factorial observation)

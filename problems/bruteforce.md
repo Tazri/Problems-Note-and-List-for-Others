@@ -20,3 +20,9 @@
 - [Codeforces : C. Di-visible Confusion](https://codeforces.com/problemset/problem/1604/C)(1300 rating, LCM tricks, why find bruteforces work here ?)
 
 - [Codeforces : E. The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E)(unrated, bruteforces + bits + bits observation)
+
+- [Codeforces : C. Secret message](https://codeforces.com/problemset/problem/2194/C)(1300 rating, bruteforces, decription, divisors check only, sub string)
+
+- [Codeforces : E. Special Elements](https://codeforces.com/contest/1352/problem/E)(1500 rating, prefix sum + bruteforces)
+
+- [Codeforces : E. The Humanoid](https://codeforces.com/contest/1759/problem/E)(1500 rating, brutefores on all possible combination)

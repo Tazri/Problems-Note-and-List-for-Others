@@ -4,3 +4,5 @@
 - [Codeforces : C1. Equal Multisets (Easy Version)](https://codeforces.com/contest/2211/problem/C1)(unrated, sliding window similarity)
 
 - [Codeforces : C2. Equal Multisets (Hard Version)](https://codeforces.com/contest/2211/problem/C2)(unrated, sliding window similarity)
+
+- [Codeforces : B. Average Sleep Time](https://codeforces.com/problemset/problem/808/B)(1300 rating, sliding windows sum)

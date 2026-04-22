@@ -13,6 +13,8 @@
 - [Codeforces : I. Abu Tahun Mod problem](https://codeforces.com/gym/102035/problem/I)(Gym, modular Arithmetics and palindrome tricks)
 - [Codeforces : D. Divisible Pairs](https://codeforces.com/problemset/problem/1931/D)(1300 rating, moduler tricks to grouping and count pair)
 
+- [COdeforces : A. A Number Between Two Others](https://codeforces.com/contest/2225/problem/A)(unrated, basic on modular arithematics)
+
 ## Lightoj
 
 - [Codeforces : Integer Divisibility](https://lightoj.com/problem/integer-divisibility)(LOJ-1078, Medium modular arithmetics way to build number)

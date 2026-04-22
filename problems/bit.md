@@ -33,3 +33,7 @@
 - [Codeforces : B. Gardener and the Array](https://codeforces.com/problemset/problem/1775/B)(1300 rating, bitwise or on sub sequence)
 
 - [Codeforces : D. AND-array](https://codeforces.com/contest/2211/problem/D)(unrated, bits contribution technique + modular arithematics)
+
+- [Codeforces : C1. XOR Convenience (Easy Version)](https://codeforces.com/problemset/problem/2189/C1)(1300 rating, xor tricks + contstructive)(i miss read the constrain, specially i <= j <= n, i read it as 1 <= j <= n)
+
+- [Codeforces : D. Exceptional Segments](https://codeforces.com/contest/2225/problem/D)(unrated, prefix xor, and use of property of xor of 1 to x)( i failed to remember the property of 1 to x of xor)

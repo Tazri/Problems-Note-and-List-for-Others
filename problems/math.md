@@ -62,6 +62,10 @@
 - [Codeforces : B. Balanced Array](https://codeforces.com/problemset/problem/1343/B)(800 rating, Basic math tricks, constructive)
 - [Codeforcs : A. GCD Sum](https://codeforces.com/problemset/problem/1498/A)(800 rating, GCD, sum of digits and disiable by 3 rules)
 
+## Mix
+
+- [Codeforces : C. New Year and the Sphere Transmission](https://codeforces.com/contest/1091/problem/C)(1400 rating, divisor find, arithematic progression, modulo observation)
+
 ## Math Series Calculation
 
 - [Spoj : ZSUM - Just Add It](https://www.spoj.com/problems/ZSUM/en/)(Series of math calculation + bigmod)
@@ -82,3 +86,7 @@
 ## Basic Math
 
 - [B. The Secret Number](https://codeforces.com/contest/2132/problem/B)(900 rating, basic math)
+
+- [Codeforces : C. Grid L](https://codeforces.com/contest/2220/problem/C)(unrated, Observation + Heavy math + bruteforces)(i cant figure out maximum L shape need)
+
+- [Codeforces : B. Lost Permutation](https://codeforces.com/contest/1759/problem/B)(800 rating, basic Arithmetic Progression observation on permutation of n)

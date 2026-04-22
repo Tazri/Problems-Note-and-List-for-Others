@@ -28,3 +28,11 @@
 - [Codeforces : B. Little Girl and Game](https://codeforces.com/problemset/problem/276/B)(1300 rating, palindromes + string)
 
 - [Codeforcs : A. Anton and Letters](https://codeforces.com/problemset/problem/443/A)(800 rating, simple distance character count using set)
+- [Codeforces : B. WOW Factor](https://codeforces.com/problemset/problem/1178/B)(1300 rating, string parse + combinetrics)
+- [Codeforces : C. Secret message](https://codeforces.com/problemset/problem/2194/C)(1300 rating, bruteforces, decription, divisors check only, sub string)
+- [Codeforces : D. Colorful Stamp](https://codeforces.com/contest/1669/problem/D)(1100 rating, subs string check + observation)
+- [Codeforces : A. Alphabet City](https://codeforces.com/problemset/problem/2181/A)(1300 rating, map use on string)
+
+- [Codeforces : A. Yes-Yes?](https://codeforces.com/contest/1759/problem/A)(800 rating, sub string repatation check)
+
+- [Codeforces : B. Alternating String](https://codeforces.com/contest/2225/problem/B)(unrated, string + bruteforces all possible outcome)

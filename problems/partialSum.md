@@ -28,6 +28,14 @@
 
 - [Codeforces : C. Good Subarrays](https://codeforces.com/problemset/problem/1398/C)(1600 rating, prefix sum apply prer-prel-1 = s)
 
+- [Codeforces : C. Interval Mod](https://codeforces.com/contest/2216/problem/C)(unrated, prefix sum + mod tricks + greedy)(i failed to detect that only need choose first k size sub array to apply operation)
+
+- [Codeforces : C. Coin Rows](https://codeforces.com/problemset/problem/1555/C)(1300 rating, prefix sum + greedy)
+
+- [Codeforces : E. Triple Operations](https://codeforces.com/problemset/problem/1999/E)(1300 rating, simple partial sum for calculate answer.)
+
+- [Codeforces : E. Special Elements](https://codeforces.com/contest/1352/problem/E)(1500 rating, prefix sum + bruteforces)
+
 ## Prefix Sum + Binary Search
 
 - [B. Worms](https://codeforces.com/problemset/problem/474/B)(prefix sum and binary search or two pointer , 900 rating)

@@ -15,3 +15,11 @@
 - [Codeforces : B. Radio Station](https://codeforces.com/problemset/problem/918/B)(900 rating, map + string to process command and show output)
 - [Codefores : B. T-shirt buying](https://codeforces.com/contest/799/problem/B)(1400 rating, priority queue or multiset, implementation heavy, map)
 - [Codeforcs : A. Anton and Letters](https://codeforces.com/problemset/problem/443/A)(800 rating, simple distance character count using set)
+
+- [Codeforces : B. Box Fitting](https://codeforces.com/problemset/problem/1498/B)(1300 rating, use of multiset, use of binary search upper and lower bound concept)
+
+- [Codeforces : C. Dungeon](https://codeforces.com/contest/2164/problem/C)(1400 rating, multiset, lowerbound concept)
+
+- [Codeforces : E. 2-Letter Strings](https://codeforces.com/problemset/problem/1669/E)(1200 rating, simple map to count pairs)
+
+- [Codeforces : A. Alphabet City](https://codeforces.com/problemset/problem/2181/A)(1300 rating, map use on string)

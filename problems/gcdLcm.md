@@ -15,3 +15,5 @@
 - [Codeforces : C1. A Simple GCD Problem (Easy Version)](https://codeforces.com/contest/2210/problem/C1)(unrated, gcd + lcm tricks)
 
 - [Codeforces : C. Grid Covering](https://codeforces.com/contest/2217/problem/C)(unrated, chinese remainder theorem, gcd and lcm)
+
+- [Codeforces : C. Mere Array](https://codeforces.com/contest/1401/problem/C)(1300 rating, gcd obervation)

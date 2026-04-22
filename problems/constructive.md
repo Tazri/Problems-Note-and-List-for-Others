@@ -26,3 +26,8 @@
 - [Codeforces : D. The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D)(constructive, primes + gcd tricks + simple sieve)
 
 - [Codeforces : F. The 67th Tree Problem](https://codeforces.com/contest/2218/problem/F)(unrated, tree contructive problem, graph)
+
+- [Codeforces : C. A-B Palindrome](https://codeforces.com/problemset/problem/1512/C)(1200 rating, palindromes + constructive algorithm)
+
+- [Codeforces : C. Wrong Binary Search](https://codeforces.com/contest/2146/problem/C)(1300 rating, binary search concept + contructive)
+- [Codeforces : B. Bobritto Bandito](https://codeforces.com/contest/2094/problem/B)(800 rating, number line, constructive)

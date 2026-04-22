@@ -17,3 +17,4 @@
 - [Codeforces : B. Restaurant](https://codeforces.com/problemset/problem/597/B)(1600 rating, intervel sort + greedy)
 
 - [Codeoforces : B. Polycarp's Practice](https://codeforces.com/problemset/problem/1006/B)(1200 rating, sorting + constructive, sorting to choose selecting max)
+- [Codeforces : A. Restricted Sorting](https://codeforces.com/problemset/problem/2187/A)(1300 rating, greedy + sorting)(i failed to think about every time swap with mn or mx)

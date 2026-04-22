@@ -15,3 +15,4 @@
 - [CSES : Creating Strings II](https://cses.fi/problemset/task/1715)(Basic school combinetrics problem, how many word can form by rearraning words)
 
 - [Codeforces : C. Make it Alternating](https://codeforces.com/problemset/problem/1879/C)(1300 rating, combinetrics)
+- [Codeforces : B. WOW Factor](https://codeforces.com/problemset/problem/1178/B)(1300 rating, string parse + combinetrics)
