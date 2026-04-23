@@ -31,3 +31,5 @@
 
 - [Codeforces : C. Wrong Binary Search](https://codeforces.com/contest/2146/problem/C)(1300 rating, binary search concept + contructive)
 - [Codeforces : B. Bobritto Bandito](https://codeforces.com/contest/2094/problem/B)(800 rating, number line, constructive)
+
+- [Codeforces : A. Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A)(800 rating, simple observation and permuation of n)

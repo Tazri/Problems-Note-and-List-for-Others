@@ -6,3 +6,5 @@
 - [Codeforces : A. Ebony and Ivory](https://codeforces.com/problemset/problem/633/A) (can solve by bruteforces)
 
 - [Codeforces : A. Vacations](https://codeforces.com/problemset/problem/698/A)(1400 rating, simple dp)
+
+- [Codeforces : C. Infected Tree](https://codeforces.com/problemset/problem/1689/C)(1600 rating, binary tree + DP)

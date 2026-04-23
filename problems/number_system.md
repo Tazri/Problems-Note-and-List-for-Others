@@ -4,6 +4,8 @@
 - [Lightoj : IP Checking](https://lightoj.com/problem/ip-checking)(1354(Easy), decimal to binary and binary to dicimal)
 - [Codeforces : F. All Possible Digits](https://codeforces.com/contest/1759/problem/F)(1800 rating, number base system, binary search, segment merge)(i failed to implement segment merge)
 
+- [Codeforces : B. Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B)(800 rating, basic factorization)
+
 ## Number Line
 
 - [Codeforces : A. Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A)(900 rating, interger number line problem)

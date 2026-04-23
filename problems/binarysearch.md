@@ -24,3 +24,5 @@
 - [Codeforces : K. Time Display Stickers](https://codeforces.com/problemset/problem/2206/K)(1300 rating, binary search + bruteforces)
 
 - [Codeforces : F. All Possible Digits](https://codeforces.com/contest/1759/problem/F)(1800 rating, number base system, binary search, segment merge)(i failed to implement segment merge)
+
+- [Codeforces : C. Tree Infection](https://codeforces.com/problemset/problem/1665/C)(1600 rating, binary search, tree)

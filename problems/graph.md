@@ -21,3 +21,7 @@
 - [Codeforces : C. Dijkstra?](https://codeforces.com/problemset/problem/20/C)(1900 rating, simple dijkstra to find shortest path)
 
 - [Codeforces : B. String Problem](https://codeforces.com/problemset/problem/33/B)(1800 rating, use dijkstra + bruteforces to greedy way change string)
+
+- [Codeforces : C. Tree Infection](https://codeforces.com/problemset/problem/1665/C)(1600 rating, binary search, tree)
+
+- [Codeforces : C. Infected Tree](https://codeforces.com/problemset/problem/1689/C)(1600 rating, binary tree + DP)
