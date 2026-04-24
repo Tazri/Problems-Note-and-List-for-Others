@@ -23,3 +23,5 @@
 - [Codeforces : E. 2-Letter Strings](https://codeforces.com/problemset/problem/1669/E)(1200 rating, simple map to count pairs)
 
 - [Codeforces : A. Alphabet City](https://codeforces.com/problemset/problem/2181/A)(1300 rating, map use on string)
+
+- [Codeforces : C. Beautiful Triple Pairs](https://codeforces.com/problemset/problem/1974/C)(1400 rating, use of map)(when i was failed here cause i don't know how to approach it and go for solution that use map)

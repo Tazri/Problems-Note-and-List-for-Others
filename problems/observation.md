@@ -24,3 +24,5 @@
 - [Codeforces : A. Antimedian Deletion](https://codeforces.com/contest/2211/problem/A)(unrated observation)
 
 - [Codeforces : G. The 67th Iteration of "Counting is Fun"](https://codeforces.com/contest/2218/problem/G)(unrated, observation on time + condition full fill)
+
+- [Codeforces : C. Sum of Substrings](https://codeforces.com/problemset/problem/1691/C)(1400 rating, lot of edge case, observation, chance to miss read)(i failed cause i miss read)

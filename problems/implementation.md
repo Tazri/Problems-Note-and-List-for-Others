@@ -14,3 +14,5 @@
 
 - [Codeforces : A. Prefix and Suffix Array](https://codeforces.com/contest/1794/problem/A)(800 rating, palindrome + implemantation)
 - [Codeforces : B. Make Connected](https://codeforces.com/problemset/problem/2161/B)(1700 rating, grid, heavy implemantation, lot of edge cases)(failed implement solution, mean failed to check zig zag)
+
+- [Codeforces : C. Simons and Posting Blogs](https://codeforces.com/contest/2205/problem/C)(1500 rating, implementation + sorting ovservation)

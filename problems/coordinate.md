@@ -11,3 +11,5 @@
 - [Codeforces : A. Weird Sum](https://codeforces.com/problemset/problem/1648/a)(1400 rating, calculate sum of all pair point manhatten distance)
 
 - [Codeforces : B. Move and Turn](https://codeforces.com/problemset/problem/1459/B)(1300 rating, observation on final points)
+
+- [Codeforces : D. Ingenuity-2](https://codeforces.com/contest/1974/problem/D)(1400 rating, coordinate system, lot of edge case, )
