@@ -1,1 +1,2 @@
 - [Codeforecs : B. Array](https://codeforces.com/contest/2209/problem/B)(unrated, bruteforces or policy based data structure)
+- [Codeforces : F. It Just Keeps Going Sideways](https://codeforces.com/contest/2227/problem/F)(unrated, prefix sum, simulation, use of ordered_multiset)(I success to find total move of initial array but i failed if one cube is decrease then what will be change)

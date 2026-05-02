@@ -26,3 +26,7 @@
 - [Codeforces : E. Special Elements](https://codeforces.com/contest/1352/problem/E)(1500 rating, prefix sum + bruteforces)
 
 - [Codeforces : E. The Humanoid](https://codeforces.com/contest/1759/problem/E)(1500 rating, brutefores on all possible combination)
+
+- [Codeforces : C. Minimize the Thickness](https://codeforces.com/problemset/problem/1741/C)(1100,rating, brutefoces all possible)
+
+- [Codeforces : C. Array Game](https://codeforces.com/problemset/problem/1904/C)(1400 rating, bruteforces all possible pair.)(failed cause i first go for greedy and sort it first and try to only check for adjacent difference for k = 2, also i did not notice constrain firs that the constrain is allowed me to go for bruteforces)

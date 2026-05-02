@@ -8,3 +8,5 @@
 - [Codeforces : A. Vacations](https://codeforces.com/problemset/problem/698/A)(1400 rating, simple dp)
 
 - [Codeforces : C. Infected Tree](https://codeforces.com/problemset/problem/1689/C)(1600 rating, binary tree + DP)
+
+- [Codeforces : C. Median Partition](https://codeforces.com/contest/2222/problem/C)(unrated, dp on subarray)(i failed to understand that this problem is about dp problem, also failed how to apply dp here.)

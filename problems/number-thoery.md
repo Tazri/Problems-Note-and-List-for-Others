@@ -63,3 +63,5 @@
 - [Codeforces : F. We Were Both Children](https://codeforces.com/problemset/problem/1850/F)(1300 rating, use of sieve, bruteforces)
 
 - [Codeforces : D. Make It Round](https://codeforces.com/contest/1759/problem/D)(1400 rating, basic factorial observation)
+
+- [Codeforces : C. Snowfall](https://codeforces.com/contest/2227/problem/C)(unrated, basic number theory + subarray logic + constructive)

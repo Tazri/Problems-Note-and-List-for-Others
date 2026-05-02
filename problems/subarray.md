@@ -23,5 +23,9 @@
 - [Codeforces : C. Unequal Array](https://codeforces.com/problemset/problem/1672/C)(1100 rating, sub array problems. greedy way to change sub array to acheive the answer)
 
 - [Codeforces : C. Simple Strings](https://codeforces.com/problemset/problem/665/C)(1300 rating, greedy way sub string change)
+
 - [Codeforces : C. Secret message](https://codeforces.com/problemset/problem/2194/C)(1300 rating, bruteforces, decription, divisors check only, sub string)
+
 - [Codeforces : D. Colorful Stamp](https://codeforces.com/contest/1669/problem/D)(1100 rating, subs string check + observation)
+
+- [Codeforces : C. Median Partition](https://codeforces.com/contest/2222/problem/C)(unrated, dp on subarray)(i failed to understand that this problem is about dp problem, also failed how to apply dp here.)

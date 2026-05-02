@@ -25,3 +25,5 @@
 - [Codeforces : C. Tree Infection](https://codeforces.com/problemset/problem/1665/C)(1600 rating, binary search, tree)
 
 - [Codeforces : C. Infected Tree](https://codeforces.com/problemset/problem/1689/C)(1600 rating, binary tree + DP)
+
+- [Codeforces : E. Nastya and Potions](https://codeforces.com/problemset/problem/1851/E)(1500 rating, topological sort + khans algorithm best example of topological sort) -[Codeforces : A. Copil Copac Draws Trees](https://codeforces.com/problemset/problem/1830/A)(1400 rating, dfs or bfs)(First i go for wrong direction, i try to solve it using dsu. then i thought it maybe solve using topological sort. i miss the main observation that, a child read at its parents time or next to its parents time.)

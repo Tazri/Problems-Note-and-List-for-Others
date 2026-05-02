@@ -1,0 +1,13 @@
+- [Codeforces : B. Artistic Balance Tree](https://codeforces.com/contest/2222/problem/B)(unrated, sorting)(I miss interpreted the problem statements )
+- [Codeforces : C. Median Partition](https://codeforces.com/contest/2222/problem/C)(unrated, dp on subarray)(i failed to understand that this problem is about dp problem, also failed how to apply dp here.)
+- [Codeforces : C. Test Generator](https://codeforces.com/problemset/problem/2203/C)(1500 rating, binary search + bit + number decomposition)( failed to detect binary search and failed detect decomposition tricks here)
+- [Codeforces : A. Disturbing Distribution](https://codeforces.com/contest/2226/problem/A)(unrated, simple observation on sequence selection)(failed to observe select sequence)
+- [Codeforces : C. Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C)(unrated, binary search + little bit modular artihmatic observation + mex)( i first detect it need binary search. but failed to detect how to apply binary search)
+- [Codeforces : D. Jumping Through Segments](https://codeforces.com/problemset/problem/1907/D)(1400 rating, segments logic, segments cover logic+ binary search)(failed to implement segments covering logic identify also failed to implement in first try. need think more)
+- [Codeforces : C. Grouping Increases](https://codeforces.com/problemset/problem/1919/C)(1400 rating, greedy, greedy observation)(failed to find the greedy logic, also first try with dp and also failed with it. then try to be greedy logic and failed to find the greedy logic)
+- [Codeforces : C. Array Game](https://codeforces.com/problemset/problem/1904/C)(1400 rating, bruteforces all possible pair.)(failed cause i first go for greedy and sort it first and try to only check for adjacent difference for k = 2, also i did not notice constrain firs that the constrain is allowed me to go for bruteforces)
+- [Codeforces : F. It Just Keeps Going Sideways](https://codeforces.com/contest/2227/problem/F)(unrated, prefix sum, simulation, use of ordered_multiset)(I success to find total move of initial array but i failed if one cube is decrease then what will be change)
+
+- [Codeforces : G1. Dances (Easy version)](https://codeforces.com/problemset/problem/1883/G1)(1400 rating, use of multiset and upper bound)(first of all hard to read the problem statements, second over confidence to failed to solve it first try. i did not go for further analysis)
+
+-[Codeforces : A. Copil Copac Draws Trees](https://codeforces.com/problemset/problem/1830/A)(1400 rating, dfs or bfs)(First i go for wrong direction, i try to solve it using dsu. then i thought it maybe solve using topological sort. i miss the main observation that, a child read at its parents time or next to its parents time.)

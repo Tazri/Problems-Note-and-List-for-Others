@@ -36,6 +36,10 @@
 
 - [Codeforces : E. Special Elements](https://codeforces.com/contest/1352/problem/E)(1500 rating, prefix sum + bruteforces)
 
+- [Codeforces : C. Maximum GCD on Whiteboard](https://codeforces.com/problemset/problem/2156/C)(1400 rating, gcd + prefix sum)
+
+- [Codeforces : F. It Just Keeps Going Sideways](https://codeforces.com/contest/2227/problem/F)(unrated, prefix sum, simulation, use of ordered_multiset)(I success to find total move of initial array but i failed if one cube is decrease then what will be change)
+
 ## Prefix Sum + Binary Search
 
 - [B. Worms](https://codeforces.com/problemset/problem/474/B)(prefix sum and binary search or two pointer , 900 rating)

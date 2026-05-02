@@ -37,3 +37,4 @@
 - [Codeforces : C1. XOR Convenience (Easy Version)](https://codeforces.com/problemset/problem/2189/C1)(1300 rating, xor tricks + contstructive)(i miss read the constrain, specially i <= j <= n, i read it as 1 <= j <= n)
 
 - [Codeforces : D. Exceptional Segments](https://codeforces.com/contest/2225/problem/D)(unrated, prefix xor, and use of property of xor of 1 to x)( i failed to remember the property of 1 to x of xor)
+- [Codeforces : E. Iva & Pav](https://codeforces.com/problemset/problem/1878/E)(1400 rating, binary search, bits & query)

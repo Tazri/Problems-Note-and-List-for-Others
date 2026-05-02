@@ -36,3 +36,5 @@
 - [Codeforces : A. Yes-Yes?](https://codeforces.com/contest/1759/problem/A)(800 rating, sub string repatation check)
 
 - [Codeforces : B. Alternating String](https://codeforces.com/contest/2225/problem/B)(unrated, string + bruteforces all possible outcome)
+
+- [Codeforces : C. Rabbits](https://codeforces.com/problemset/problem/2147/C)(1500 rating, observation, lot of edge case, divide sub problem, sub string)( if failed to think it as sub problem)

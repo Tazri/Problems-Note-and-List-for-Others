@@ -26,3 +26,12 @@
 - [Codeforces : F. All Possible Digits](https://codeforces.com/contest/1759/problem/F)(1800 rating, number base system, binary search, segment merge)(i failed to implement segment merge)
 
 - [Codeforces : C. Tree Infection](https://codeforces.com/problemset/problem/1665/C)(1600 rating, binary search, tree)
+
+- [Codeforces : C. Test Generator](https://codeforces.com/problemset/problem/2203/C)(1500 rating, binary search + bit + number decomposition)( failed to detect binary search and failed detect decomposition tricks here)
+
+- [Codeforces : C. Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C)(unrated, binary search + little bit modular artihmatic observation + mex)( i first detect it need binary search. but failed to detect how to apply binary search)
+
+- [Codeforces : D. Jumping Through Segments](https://codeforces.com/problemset/problem/1907/D)(1400 rating, segments logic, segments cover logic+ binary search)(failed to implement segments covering logic identify also failed to implement in first try. need think more)
+- [Codeforces : G1. Dances (Easy version)](https://codeforces.com/problemset/problem/1883/G1)(1400 rating, use of multiset and upper bound)(first of all hard to read the problem statements, second over confidence to failed to solve it first try. i did not go for further analysis)
+
+- [Codeforces : E. Iva & Pav](https://codeforces.com/problemset/problem/1878/E)(1400 rating, binary search, bits & query)

@@ -33,3 +33,5 @@
 - [Codeforces : B. Bobritto Bandito](https://codeforces.com/contest/2094/problem/B)(800 rating, number line, constructive)
 
 - [Codeforces : A. Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A)(800 rating, simple observation and permuation of n)
+
+- [Codeforces : C. Snowfall](https://codeforces.com/contest/2227/problem/C)(unrated, basic number theory + subarray logic + constructive)

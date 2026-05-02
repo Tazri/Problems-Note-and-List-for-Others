@@ -3,3 +3,5 @@
 - [Codeforces : D. Ingenuity-2](https://codeforces.com/contest/1974/problem/D)(1400 rating, coordinate system, lot of edge case, )
 
 - [Codeforces : C. Sum of Substrings](https://codeforces.com/problemset/problem/1691/C)(1400 rating, lot of edge case, observation, chance to miss read)(i failed cause i miss read)
+
+- [Codeforces : C. Rabbits](https://codeforces.com/problemset/problem/2147/C)(1500 rating, observation, lot of edge case, divide sub problem, sub string)( if failed to think it as sub problem)

@@ -25,3 +25,4 @@
 - [Codeforces : A. Alphabet City](https://codeforces.com/problemset/problem/2181/A)(1300 rating, map use on string)
 
 - [Codeforces : C. Beautiful Triple Pairs](https://codeforces.com/problemset/problem/1974/C)(1400 rating, use of map)(when i was failed here cause i don't know how to approach it and go for solution that use map)
+- [Codeforces : G1. Dances (Easy version)](https://codeforces.com/problemset/problem/1883/G1)(1400 rating, use of multiset and upper bound)(first of all hard to read the problem statements, second over confidence to failed to solve it first try. i did not go for further analysis)

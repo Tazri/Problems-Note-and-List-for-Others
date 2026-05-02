@@ -18,3 +18,5 @@
 
 - [Codeoforces : B. Polycarp's Practice](https://codeforces.com/problemset/problem/1006/B)(1200 rating, sorting + constructive, sorting to choose selecting max)
 - [Codeforces : A. Restricted Sorting](https://codeforces.com/problemset/problem/2187/A)(1300 rating, greedy + sorting)(i failed to think about every time swap with mn or mx)
+
+- [Codeforces : B. Artistic Balance Tree](https://codeforces.com/contest/2222/problem/B)(unrated, sorting)(I miss interpreted the problem statements )

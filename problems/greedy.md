@@ -22,3 +22,5 @@
 - [Codeforces : A. Restricted Sorting](https://codeforces.com/problemset/problem/2187/A)(1300 rating, greedy + sorting)(i failed to think about every time swap with mn or mx)
 
 - [Codeforces : C. Red-Black Pairs](https://codeforces.com/contest/2225/problem/C)(unrated, greedy way to choose)
+
+- [Codeforces : E. Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E)(1400 rating, greedy observation + sorting)

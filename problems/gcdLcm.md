@@ -17,3 +17,5 @@
 - [Codeforces : C. Grid Covering](https://codeforces.com/contest/2217/problem/C)(unrated, chinese remainder theorem, gcd and lcm)
 
 - [Codeforces : C. Mere Array](https://codeforces.com/contest/1401/problem/C)(1300 rating, gcd obervation)
+
+- [Codeforces : C. Maximum GCD on Whiteboard](https://codeforces.com/problemset/problem/2156/C)(1400 rating, gcd + prefix sum)

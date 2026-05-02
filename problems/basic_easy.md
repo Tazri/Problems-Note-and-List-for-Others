@@ -24,6 +24,7 @@
 - [Codeforces : A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) (800 rating, easy implementation)
 - [Codeforces : B. Equal Candies](https://codeforces.com/contest/1676/problem/B)(800 rating, find min and sum of diff from it)
 - [Codeforces : A. Plus One on the Subset](https://codeforces.com/contest/1624/problem/A)(800 rating, find min max different)
+- [Codeforces : A. A Wonderful Contest](https://codeforces.com/contest/2222/problem/a)(unrated, simple math observation on array)
 
 ## Sorting
 
@@ -69,3 +70,7 @@
 
 - [Codeforces : C. Minimum Varied Number](https://codeforces.com/problemset/problem/1714/C)(800 rating, basic on loop and greedy math)
 - [Codeforces : B. The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B)(unrated, basic greedy)
+
+## Testcase
+
+- [Codeforces : A. Koshary](https://codeforces.com/contest/2227/problem/A)(unrated, very basic,only on parity check)
