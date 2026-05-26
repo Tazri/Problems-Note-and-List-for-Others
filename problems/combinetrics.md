@@ -16,3 +16,5 @@
 
 - [Codeforces : C. Make it Alternating](https://codeforces.com/problemset/problem/1879/C)(1300 rating, combinetrics)
 - [Codeforces : B. WOW Factor](https://codeforces.com/problemset/problem/1178/B)(1300 rating, string parse + combinetrics)
+
+- [Codeforces : B. AND Sequences](https://codeforces.com/problemset/problem/1513/B)(1400 rating, combinetrics + & bits observation)

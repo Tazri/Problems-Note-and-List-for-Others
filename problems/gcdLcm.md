@@ -19,3 +19,5 @@
 - [Codeforces : C. Mere Array](https://codeforces.com/contest/1401/problem/C)(1300 rating, gcd obervation)
 
 - [Codeforces : C. Maximum GCD on Whiteboard](https://codeforces.com/problemset/problem/2156/C)(1400 rating, gcd + prefix sum)
+- [Codeforces : E. G-C-D, Unlucky!](https://codeforces.com/problemset/problem/2126/E)(1400 rating, gcd, sufficient and necessaty condition)
+- [Codeforces : C. Joty and Chocolate](https://codeforces.com/problemset/problem/678/C)(1600 rating, basic counting + lcm)

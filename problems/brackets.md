@@ -9,3 +9,4 @@
 - [Codeforces : B. Party Monster](https://codeforces.com/contest/2227/problem/B)(unrated, brackets, little bit observation)
 
 - [Codeforces : D. Bracket Coloring](https://codeforces.com/problemset/problem/1837/D)(1400 rating, brackets, stack observatoin)
+- [Codeforces : A. Zhily and Bracket Swapping](https://codeforces.com/contest/2223/problem/A)(unrated, brackets, looking back greedy)(faild to indentify that both stack sum size must be greater than to to apply prevous operation revert)

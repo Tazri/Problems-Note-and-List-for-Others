@@ -1,0 +1,1 @@
+- [Codeforces : E. G-C-D, Unlucky!](https://codeforces.com/problemset/problem/2126/E)(1400 rating, gcd, sufficient and necessaty condition)

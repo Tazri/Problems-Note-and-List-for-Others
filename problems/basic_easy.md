@@ -18,6 +18,9 @@
 - [Codeforces : A. My First Sorting Problem](https://codeforces.com/problemset/problem/1971/A)(800 rating, basic condition math, with multiple testcase)
 - [Codeforces : A. Most Unstable Array](https://codeforces.com/contest/1353/problem/A)(800 rating, basic observation and math)
 - [Codeforces : A. Elections](https://codeforces.com/problemset/problem/1593/A)(800 rating, basic math)
+- [Codeforces : A. Water Buying](https://codeforces.com/contest/1118/problem/A)(800 rating, basic math)
+- [Codeforces : A. Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A)(unrated, basic math and modular arithematics)
+- [Codeforces : A. Optimal Purchase](https://codeforces.com/contest/2230/problem/A)(unrated, basic math + greedy)
 
 ## Basic Array
 
@@ -25,6 +28,9 @@
 - [Codeforces : B. Equal Candies](https://codeforces.com/contest/1676/problem/B)(800 rating, find min and sum of diff from it)
 - [Codeforces : A. Plus One on the Subset](https://codeforces.com/contest/1624/problem/A)(800 rating, find min max different)
 - [Codeforces : A. A Wonderful Contest](https://codeforces.com/contest/2222/problem/a)(unrated, simple math observation on array)
+- [Codeforces : A. Mishka and Contest](https://codeforces.com/contest/999/problem/A)(800 rating, basic array, loop from first and last without testcase)
+- [Codeforces : A. Zhily and Array Operating](https://codeforces.com/contest/2224/problem/A)(unratd, basic on array)
+- [Codeforces : A. Remove Duplicates](https://codeforces.com/contest/978/problem/A)(800 rating, basic tack and reverse array traverse)
 
 ## Sorting
 
@@ -49,6 +55,7 @@
 - [Codeforces : B. Atilla's Favorite Problem](https://codeforces.com/problemset/problem/1760/B)(800 rating, string + ASCII)
 - [Codeforces : A. Vlad and the Best of Five](https://codeforces.com/problemset/problem/1926/A)(800 rating, vasic freq count from string character)
 - [Codeforces : A. Polycarp and the Day of Pi](https://codeforces.com/problemset/problem/1790/A)(800 rating string match count)
+- [Codeforces : A. Diverse Team](https://codeforces.com/contest/988/problem/A)(800 rating, basic set and array)
 
 ## Counting
 

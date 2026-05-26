@@ -26,3 +26,9 @@
 
 - [Codeforces : C. Beautiful Triple Pairs](https://codeforces.com/problemset/problem/1974/C)(1400 rating, use of map)(when i was failed here cause i don't know how to approach it and go for solution that use map)
 - [Codeforces : G1. Dances (Easy version)](https://codeforces.com/problemset/problem/1883/G1)(1400 rating, use of multiset and upper bound)(first of all hard to read the problem statements, second over confidence to failed to solve it first try. i did not go for further analysis)
+- [Codeforces : B. Hossam and Friends](https://codeforces.com/problemset/problem/1771/B)(1400 rating, two pointer + use of multiset or map)
+- [Codeforces : C. Ball in Berland](https://codeforces.com/problemset/problem/1475/C)(1400 rating, map and set concept)
+- [Codeforces : D. Zero Remainder Array](https://codeforces.com/problemset/problem/1374/D)(1400 rating, multiset and lower bound concept)
+- [Codeforces : A. Journey Planning](https://codeforces.com/problemset/problem/1320/A)(1400 rating, map and cnt greedy way)
+- [Codeforces : D. Candy Box (easy version)](https://codeforces.com/problemset/problem/1183/D)(1400 rating, use of map and set and freequency count and greedy)
+- [Codeforces: C. Equal Sums](https://codeforces.com/contest/988/problem/C)(1400 rating, use of map )

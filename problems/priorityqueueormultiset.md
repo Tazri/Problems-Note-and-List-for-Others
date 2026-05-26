@@ -3,3 +3,4 @@
 - [Codeforces : C. Numbers on Whiteboard](https://codeforces.com/contest/1430/my)(1000 rating, Priority queue + constructive algorithm)
 
 - [Codefores : B. T-shirt buying](https://codeforces.com/contest/799/problem/B)(1400 rating, priority queue or multiset, implementation heavy, map)
+- [Codeforces : B. Battle of Arrays](https://codeforces.com/problemset/problem/2181/B)(1400 rating, priority queue or multiset)

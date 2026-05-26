@@ -27,3 +27,8 @@
 - [Codeforces : C. Infected Tree](https://codeforces.com/problemset/problem/1689/C)(1600 rating, binary tree + DP)
 
 - [Codeforces : E. Nastya and Potions](https://codeforces.com/problemset/problem/1851/E)(1500 rating, topological sort + khans algorithm best example of topological sort) -[Codeforces : A. Copil Copac Draws Trees](https://codeforces.com/problemset/problem/1830/A)(1400 rating, dfs or bfs)(First i go for wrong direction, i try to solve it using dsu. then i thought it maybe solve using topological sort. i miss the main observation that, a child read at its parents time or next to its parents time.)
+- [Codeforces : C. News Distribution](https://codeforces.com/problemset/problem/1167/C)(1400 rating, Simple DSU)
+- [Codeforces : C. Queen](https://codeforces.com/problemset/problem/1143/C)(1400 rating, simple tree algorithm)
+- [Codefores : D. Rae Taylor and Trees (easy version)](https://codeforces.com/problemset/problem/2171/D)(1400 rating, use of multiset, graph, tree, tree property observation)(I just missleaded and think in wrong way. also i just touch the solution idea little bit. but failed to capture it properly. did not notice previous and current component. also i failed to capture a corner case that a component can hold two next components inside.)
+- [Codefores : F. Rae Taylor and Trees (hard version)](https://codeforces.com/contest/2171/problem/F)(1400 rating, use of multiset, graph, tree, tree property observation)(I solve it help of 2171/D)
+- [Codeforces : D. Arboris Contractio](https://codeforces.com/problemset/problem/2131/D)(1400 rating, tree + tree diameter)

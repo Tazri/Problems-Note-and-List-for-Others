@@ -10,3 +10,5 @@
 - [Codeforces : B. Quality vs Quantity](https://codeforces.com/problemset/problem/1646/B)(800 rating, two pointer on sorted array)
 
 - [Codeforces : B. Kefa and Company](https://codeforces.com/problemset/problem/580/B)(1500 rating, two pointer greedy way to calculate sum)
+
+- [Codeforces : B. Hossam and Friends](https://codeforces.com/problemset/problem/1771/B)(1400 rating, two pointer + use of multiset or map)

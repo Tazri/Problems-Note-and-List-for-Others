@@ -61,6 +61,8 @@
 - [Codeofrces : B. Buttons](https://codeforces.com/problemset/problem/268/B)(1000 rating, math+hard observation + AP)
 - [Codeforces : B. Balanced Array](https://codeforces.com/problemset/problem/1343/B)(800 rating, Basic math tricks, constructive)
 - [Codeforcs : A. GCD Sum](https://codeforces.com/problemset/problem/1498/A)(800 rating, GCD, sum of digits and disiable by 3 rules)
+- [Codeforcs : C. Arrange the Numbers in a Circle](https://codeforces.com/contest/2230/problem/C)(unrated, circular array, math)(failed to solve. can not find properly how to construct the answer best way.)(23-may-2026)
+- [Codeforces : B. Another Sorting Problem](https://codeforces.com/contest/2231/problem/B)(unrated, greedy + math)
 
 ## Mix
 
@@ -74,6 +76,7 @@
 
 - [Codeforces : B. High School: Become Human](https://codeforces.com/problemset/problem/987/B)(1100 rating, logrithom, big number compare)
 - [UVA : 11029 - Leading and Trailing](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1970)(Find the leading digits of n^k)
+- [Lightoj : Digits of Factorial](https://lightoj.com/problem/digits-of-factorial)(factorial and logarithm)
 
 ## Basic Factorial
 
@@ -90,3 +93,7 @@
 - [Codeforces : C. Grid L](https://codeforces.com/contest/2220/problem/C)(unrated, Observation + Heavy math + bruteforces)(i cant figure out maximum L shape need)
 
 - [Codeforces : B. Lost Permutation](https://codeforces.com/contest/1759/problem/B)(800 rating, basic Arithmetic Progression observation on permutation of n)
+
+## Factorial and Legendre
+
+- [Lightoj : Trailing Zeroes (III)](https://lightoj.com/problem/trailing-zeroes-iii)(factorial + legendre + binary search)

@@ -35,3 +35,4 @@
 - [Codeforces : A. Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A)(800 rating, simple observation and permuation of n)
 
 - [Codeforces : C. Snowfall](https://codeforces.com/contest/2227/problem/C)(unrated, basic number theory + subarray logic + constructive)
+- [Codeforces : A. Construct an Array](https://codeforces.com/contest/2231/problem/A)(unrated, simple constructive algorithm on number line)

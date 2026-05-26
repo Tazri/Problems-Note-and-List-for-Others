@@ -1,0 +1,3 @@
+# Tricky Problem
+
+- [B. Fortune Telling](https://codeforces.com/problemset/problem/1634/B)(1400 rating, tricky on xor and sum parity relation)(That was really a tricky question, i thinking on wrong side, first i assumtion maybe dp, then i see constrian, then i think about prefix sum and prefix xor maybe without any proper proof.. so failed. but failed to figure out sum and xor parity change rules. and also failed the tricks about this question, i try to calculate the y, but this question this not need to calculate the y. just parity comparing to confirm the answer. question already say that already only one person got y. ans the parity change by +3, i did not got this tricks.)

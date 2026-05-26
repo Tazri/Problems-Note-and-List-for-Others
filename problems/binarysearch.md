@@ -35,3 +35,8 @@
 - [Codeforces : G1. Dances (Easy version)](https://codeforces.com/problemset/problem/1883/G1)(1400 rating, use of multiset and upper bound)(first of all hard to read the problem statements, second over confidence to failed to solve it first try. i did not go for further analysis)
 
 - [Codeforces : E. Iva & Pav](https://codeforces.com/problemset/problem/1878/E)(1400 rating, binary search, bits & query)
+
+- [Codeforces : C. Schedule Management](https://codeforces.com/problemset/problem/1701/C)(1400 rating, binary search, bisection version with monotonicy function)
+- [Codeforces : D. Zero Remainder Array](https://codeforces.com/problemset/problem/1374/D)(1400 rating, multiset and lower bound concept)
+- [Codeforces : D. Max Median](https://codeforces.com/problemset/problem/1486/D)(2100 rating, binary search + prefix sum + median)(i thought first it can solve by median find by ordered multiset, and i was fully wrong. also failed to find the monotonic properties that i can use in binary search, also failed to thought binary pedicate function to and +1, -1 assume for x >= and x < tricks)
+- [Codeforces : C2. The Cunning Seller (hard version)](https://codeforces.com/problemset/problem/2132/C2)(1400 rating, number system + binary search + greedy)(failed to solve and failed to get that 3 base number system will work)

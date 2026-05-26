@@ -20,3 +20,4 @@
 - [Codeforces : A. Restricted Sorting](https://codeforces.com/problemset/problem/2187/A)(1300 rating, greedy + sorting)(i failed to think about every time swap with mn or mx)
 
 - [Codeforces : B. Artistic Balance Tree](https://codeforces.com/contest/2222/problem/B)(unrated, sorting)(I miss interpreted the problem statements )
+- [Codeforces : C. Trip Shopping](https://codeforces.com/problemset/problem/2127/C)(1400 rating, greedy sorting games)

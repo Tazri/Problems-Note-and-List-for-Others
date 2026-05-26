@@ -29,4 +29,7 @@
 
 - [Codeforces : C. Minimize the Thickness](https://codeforces.com/problemset/problem/1741/C)(1100,rating, brutefoces all possible)
 
-- [Codeforces : C. Array Game](https://codeforces.com/problemset/problem/1904/C)(1400 rating, bruteforces all possible pair.)(failed cause i first go for greedy and sort it first and try to only check for adjacent difference for k = 2, also i did not notice constrain firs that the constrain is allowed me to go for bruteforces)
+- [Codeforces : C. Array Game](https://codeforces.com/problemset/problem/1904/C)(1400 rating, bruteforces all possible pair.)(failed cause i first go for greedy and sort it first and try to only check for adjacent difference for k = 2, also i did not notice constrain first that the constrain is allowed me to go for bruteforces)
+- [Codeforces : C. Kanade's Perfect Multiples](https://codeforces.com/problemset/problem/2173/C)(1400 rating, bruteforces + sorting+ multiples)
+- [Codeforces : C. Meximum Array 2](https://codeforces.com/problemset/problem/2157/C)(1400 rating, bruteforces + sorting)(i success to implement actual solution but i miss the sorting range for mex. and thats the thing i stuck for 2 hours)
+- [Codefores : B. Power Sequence](https://codeforces.com/problemset/problem/1397/B)(1500 rating, brutefoces)

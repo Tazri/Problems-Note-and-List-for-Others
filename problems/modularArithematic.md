@@ -15,6 +15,10 @@
 
 - [COdeforces : A. A Number Between Two Others](https://codeforces.com/contest/2225/problem/A)(unrated, basic on modular arithematics)
 
+- [Codeforces : E. Add Modulo 10](https://codeforces.com/problemset/problem/1714/E)(1400 rating, modular cycle tricks)
+
+- [Codeforces : B. Remilia Plays Soku](https://codeforces.com/contest/2228/problem/B)(unrated, modular cycles)(failed to detect for n = 3 edge cases)
+
 ## Lightoj
 
 - [Codeforces : Integer Divisibility](https://lightoj.com/problem/integer-divisibility)(LOJ-1078, Medium modular arithmetics way to build number)

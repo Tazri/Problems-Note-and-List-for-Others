@@ -38,3 +38,5 @@
 
 - [Codeforces : D. Exceptional Segments](https://codeforces.com/contest/2225/problem/D)(unrated, prefix xor, and use of property of xor of 1 to x)( i failed to remember the property of 1 to x of xor)
 - [Codeforces : E. Iva & Pav](https://codeforces.com/problemset/problem/1878/E)(1400 rating, binary search, bits & query)
+- [Codeforces : B. AND Sequences](https://codeforces.com/problemset/problem/1513/B)(1400 rating, combinetrics + & bits observation)
+- [Codeforces : C. Johnny and Another Rating Drop](https://codeforces.com/problemset/problem/1362/C)(1400 rating, binary number system, bits position observation) -[Codeforces : E. Adjacent XOR](https://codeforces.com/contest/2131/problem/E)(1400 rating, bits xor)

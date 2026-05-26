@@ -6,6 +6,10 @@
 
 - [Codeforces : B. Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B)(800 rating, basic factorization)
 
+- [Codeforces : C. Johnny and Another Rating Drop](https://codeforces.com/problemset/problem/1362/C)(1400 rating, binary number system, bits position observation)
+- [Codeforces : C2. The Cunning Seller (hard version)](https://codeforces.com/problemset/problem/2132/C2)(1400 rating, number system + binary search + greedy)(failed to solve and failed to get that 3 base number system will work)
+- [Codeforces : C1. The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1)(1400 rating, 3 based number system + greedy)
+
 ## Number Line
 
 - [Codeforces : A. Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A)(900 rating, interger number line problem)

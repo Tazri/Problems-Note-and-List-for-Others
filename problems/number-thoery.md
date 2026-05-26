@@ -40,6 +40,8 @@
 
 - [Codeforces : E. Product Queries](https://codeforces.com/problemset/problem/2193/E)(1300 rating, number theory + dp problem)
 
+- [Codeforces : B. Orac and Models](https://codeforces.com/problemset/problem/1350/B)(1400 rating, divisor + greedy way to choose + little dp)
+
 ### Practice
 
 - [Eolymp : Modular division](https://eolymp.com/en/problems/9606)(easy, calculate inverse)
@@ -65,3 +67,4 @@
 - [Codeforces : D. Make It Round](https://codeforces.com/contest/1759/problem/D)(1400 rating, basic factorial observation)
 
 - [Codeforces : C. Snowfall](https://codeforces.com/contest/2227/problem/C)(unrated, basic number theory + subarray logic + constructive)
+- [Codeforces : C. Kanade's Perfect Multiples](https://codeforces.com/problemset/problem/2173/C)(1400 rating, bruteforces + sorting+ multiples)

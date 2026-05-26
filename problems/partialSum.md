@@ -40,9 +40,14 @@
 
 - [Codeforces : F. It Just Keeps Going Sideways](https://codeforces.com/contest/2227/problem/F)(unrated, prefix sum, simulation, use of ordered_multiset)(I success to find total move of initial array but i failed if one cube is decrease then what will be change)
 
+- [Codeforces : C. Berland Regional](https://codeforces.com/problemset/problem/1519/C)(1400 rating, prefix sum on multiple array)
+
+- [Codeforces : B. Digit String](https://codeforces.com/contest/2230/problem/B)(unrated, prefix and suffix sum)( i did not get how to be greedy and i failed to guess about prefix and suffix sum for this problem. but main think i actually captured. use of prefix and suffix tricks did not come out in my mind in first. even i hijack testcase, still failed to find that prefix sum tricks. need solution videos to get it.)
+
 ## Prefix Sum + Binary Search
 
 - [B. Worms](https://codeforces.com/problemset/problem/474/B)(prefix sum and binary search or two pointer , 900 rating)
+- [Codeforces : D. Max Median](https://codeforces.com/problemset/problem/1486/D)(2100 rating, binary search + prefix sum + median)(i thought first it can solve by median find by ordered multiset, and i was fully wrong. also failed to find the monotonic properties that i can use in binary search, also failed to thought binary pedicate function to and +1, -1 assume for x >= and x < tricks)
 
 ## Implementing :
 

@@ -29,3 +29,4 @@
 - [Codeforces : D. Colorful Stamp](https://codeforces.com/contest/1669/problem/D)(1100 rating, subs string check + observation)
 
 - [Codeforces : C. Median Partition](https://codeforces.com/contest/2222/problem/C)(unrated, dp on subarray)(i failed to understand that this problem is about dp problem, also failed how to apply dp here.)
+- [Codeforces : B. The Number of Products](https://codeforces.com/problemset/problem/1215/B)(1400 rating, pair count,sub array)
