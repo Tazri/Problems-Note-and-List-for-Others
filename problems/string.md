@@ -38,3 +38,5 @@
 - [Codeforces : B. Alternating String](https://codeforces.com/contest/2225/problem/B)(unrated, string + bruteforces all possible outcome)
 
 - [Codeforces : C. Rabbits](https://codeforces.com/problemset/problem/2147/C)(1500 rating, observation, lot of edge case, divide sub problem, sub string)( if failed to think it as sub problem)
+- [Codeforces : B. Ashmal](https://codeforces.com/problemset/problem/2180/B)(800 rating, make lexocographical smallest string)
+- [Codeforces : B. Dictionary](https://codeforces.com/contest/1674/problem/B)(800 rating, map and string)

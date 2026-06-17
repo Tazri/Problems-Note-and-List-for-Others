@@ -26,3 +26,4 @@
 - [Codeforces : E. Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E)(1400 rating, greedy observation + sorting)
 - [Codeforces : B. Tape](https://codeforces.com/problemset/problem/1110/B)(1400 rating, sorting + greedy)
 - [Codeforces : C. Trip Shopping](https://codeforces.com/problemset/problem/2127/C)(1400 rating, greedy sorting games)
+- [Codeforces : A. Convergence](https://codeforces.com/contest/2232/problem/A)(unratd, greedy and number line)

@@ -19,3 +19,5 @@
 - [Codeforces : B. Bobritto Bandito](https://codeforces.com/contest/2094/problem/B)(800 rating, number line, constructive)
 
 - [Codeforce : C. Thermostat](https://codeforces.com/contest/1759/problem/C)(1100 rating, math and observation on number line)
+- [Codeforces : A. Convergence](https://codeforces.com/contest/2232/problem/A)(unratd, greedy and number line)
+- [Codeforces : D. Christmas Trees](https://codeforces.com/problemset/problem/1283/D)(1800 rating, bfs on number line.)

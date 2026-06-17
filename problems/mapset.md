@@ -32,3 +32,6 @@
 - [Codeforces : A. Journey Planning](https://codeforces.com/problemset/problem/1320/A)(1400 rating, map and cnt greedy way)
 - [Codeforces : D. Candy Box (easy version)](https://codeforces.com/problemset/problem/1183/D)(1400 rating, use of map and set and freequency count and greedy)
 - [Codeforces: C. Equal Sums](https://codeforces.com/contest/988/problem/C)(1400 rating, use of map )
+- [Codeforces : D. Pashmak and Parmida's problem](https://codeforces.com/problemset/problem/459/D)(1800 rating, use of policy based data structure and map)
+- [Codeforces : B. Dictionary](https://codeforces.com/contest/1674/problem/B)(800 rating, map and string)
+- [Codeforces : C. Chipmunk Theo and Equality](https://codeforces.com/problemset/problem/2231/C)(1400 rating, use of map and set)

@@ -68,3 +68,9 @@
 
 - [Codeforces : C. Snowfall](https://codeforces.com/contest/2227/problem/C)(unrated, basic number theory + subarray logic + constructive)
 - [Codeforces : C. Kanade's Perfect Multiples](https://codeforces.com/problemset/problem/2173/C)(1400 rating, bruteforces + sorting+ multiples)
+
+- [Codeforces : B. Hungry Sequence](https://codeforces.com/problemset/problem/327/B)(1200 rating, basic prime generate using seive)
+- [Codeforces : B. A Trivial Problem](https://codeforces.com/problemset/problem/633/B)(1300 rating, legendre + binary search)
+- [Codeforces : C. Bear and Prime Numbers](https://codeforces.com/problemset/problem/385/C)(1700 rating, prefix sum, number factorization)(i solved actual problem but accedently write "return" instead "continue" , find it take lot time at last need to see where i got WA to find it)
+- [Codeforcs : D. Dima and Lisa](https://codeforces.com/problemset/problem/584/D)(1800 rating, use of goldbarg conjecture,bruteforces)(failed to detect why will bruteforces will work here)
+- [Codeforces : A. Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A)(unrated, simple moduler observation)

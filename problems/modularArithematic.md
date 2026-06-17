@@ -19,6 +19,9 @@
 
 - [Codeforces : B. Remilia Plays Soku](https://codeforces.com/contest/2228/problem/B)(unrated, modular cycles)(failed to detect for n = 3 edge cases)
 
+- [Codeforces : B. Modular Equations](https://codeforces.com/problemset/problem/495/B)(1600 rating, basic modular arithmetics problem)
+- [Codeforces : A. Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A)(unrated, simple moduler observation)
+
 ## Lightoj
 
 - [Codeforces : Integer Divisibility](https://lightoj.com/problem/integer-divisibility)(LOJ-1078, Medium modular arithmetics way to build number)

@@ -63,6 +63,7 @@
 - [Codeforcs : A. GCD Sum](https://codeforces.com/problemset/problem/1498/A)(800 rating, GCD, sum of digits and disiable by 3 rules)
 - [Codeforcs : C. Arrange the Numbers in a Circle](https://codeforces.com/contest/2230/problem/C)(unrated, circular array, math)(failed to solve. can not find properly how to construct the answer best way.)(23-may-2026)
 - [Codeforces : B. Another Sorting Problem](https://codeforces.com/contest/2231/problem/B)(unrated, greedy + math)
+- [Codeforces : B. Cake Leveling](https://codeforces.com/contest/2232/problem/B)(unrated, simple math)
 
 ## Mix
 
@@ -85,6 +86,7 @@
 ## Geometric Progression
 
 - [Codeforces : E1. Rudolf and Snowflakes (simple version)](https://codeforces.com/problemset/problem/1846/E1)(1300 rating, use of geomatric prograssion + divisors)
+- [Codeforces : C. Alternating Sum](https://codeforces.com/problemset/problem/964/C)(1800 rating, math , geomatric progression perodic series)(i failed to simply the eqution, take help from gpt after that, i failed to detect geomatric progression eqution not work if ratio r = 1)
 
 ## Basic Math
 
@@ -97,3 +99,7 @@
 ## Factorial and Legendre
 
 - [Lightoj : Trailing Zeroes (III)](https://lightoj.com/problem/trailing-zeroes-iii)(factorial + legendre + binary search)
+
+## Basic LCM
+
+- [Codeforces : J. Divisibility](https://codeforces.com/problemset/problem/630/J)(1100 rating, math, lcm)

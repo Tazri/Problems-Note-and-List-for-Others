@@ -44,6 +44,8 @@
 
 - [Codeforces : B. Digit String](https://codeforces.com/contest/2230/problem/B)(unrated, prefix and suffix sum)( i did not get how to be greedy and i failed to guess about prefix and suffix sum for this problem. but main think i actually captured. use of prefix and suffix tricks did not come out in my mind in first. even i hijack testcase, still failed to find that prefix sum tricks. need solution videos to get it.)
 
+- [Codeforces : C. Bear and Prime Numbers](https://codeforces.com/problemset/problem/385/C)(1700 rating, prefix sum, number factorization)(i solved actual problem but accedently write "return" instead "continue" , find it take lot time at last need to see where i got WA to find it)
+
 ## Prefix Sum + Binary Search
 
 - [B. Worms](https://codeforces.com/problemset/problem/474/B)(prefix sum and binary search or two pointer , 900 rating)

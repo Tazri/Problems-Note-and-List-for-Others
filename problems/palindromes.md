@@ -7,3 +7,4 @@
 - [Codeforces : C. A-B Palindrome](https://codeforces.com/problemset/problem/1512/C)(1200 rating, palindromes + constructive algorithm)
 
 - [Codeforces : D. Palindromex](https://codeforces.com/contest/2227/problem/D)(unrated, palindrome + mex)
+- [Codeforces : B. Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B)(unrated, palindromes and number thoery)

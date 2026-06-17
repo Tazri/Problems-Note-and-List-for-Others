@@ -1,34 +1,50 @@
+## Basic Graph Problem
+
+- [AIZUoj : Graph](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_A)(matrix graph representation)
+- [AIZUoj : Depth First Search](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B)(Basic dfs)
+- [UVA : 572 - Oil Deposits](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=513&mosmsg=Submission+received+with+ID+31179268)(Basic graph traversal to count component)
+- [CSES : Building Roads](https://cses.fi/problemset/task/1666/)(graph components connect)
+- [Lightoj : qualizing Money](https://lightoj.com/problem/equalizing-money)(medium, component traversal)
+- [Codeforces : C. Kefa and Park](https://codeforces.com/problemset/problem/580/C)(1500 rating, dfs tree traverse)
+- [AIZUoj : Breadth First Search](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C)(bfs to find shortest path)
+- [CSES : Message Route](https://cses.fi/problemset/task/1667)(shortest path using bfs)
+- [UVA : 10004 - Bicoloring](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=945&mosmsg=Submission+received+with+ID+31180700)(basic biparted graph detected problem)
+- [LightOj : Guilty Prince](https://lightoj.com/problem/guilty-prince)(easy, graph traverse in matrix)
+- [CSES : Counting Rooms](https://cses.fi/problemset/task/1192)(graph traverse in matrix)
+- [CSES : Labyrinth](https://cses.fi/problemset/task/1193)(find path in matrix using bfs)
+- [CSES : Round Trip](https://cses.fi/problemset/task/1669/)(cycle detect in bidirectional graph and print)
+- [CSES : Round Trip II](https://cses.fi/problemset/task/1678/)(cycle detect in directional graph and print)
+- [UVAoj : 10305 - Ordering Tasks](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1246)(topological sort in directed graph)
+- [CSES : Course Schedule](https://cses.fi/problemset/task/1679)(topological sort in directed graph)
+
 ## Problem On Graph
 
 - [Codeforces : A. New Year Transportation](https://codeforces.com/problemset/problem/500/A)
 - [Codeforces : B. Two Buttons](https://codeforces.com/problemset/problem/520/B)
 - [Codeforces : C. Kefa and Park](https://codeforces.com/problemset/problem/580/C)
-
 - [Codeforces : B. Right Maximum](https://codeforces.com/contest/2204/problem/D)(unratted, biparted graph)
 - [Codefores : C. Rumor](https://codeforces.com/contest/893/problem/C)(1300 rating, basic graph theory, bfs or dfs)
-
 - [Codeforces : D. A Simple RBS Problem](https://codeforces.com/contest/2210/problem/D)(unrated, graph + bracket problem)
 - [Codeforces : F. The 67th Tree Problem](https://codeforces.com/contest/2218/problem/F)(unrated, tree contructive problem, graph)
-
 - [Codeforces : G. White-Black Balanced Subtrees](https://codeforces.com/problemset/problem/1676/G)(1300 rating, graph problem, simple dfs and bfs to track graph level)
-
 - [Codeforces : C. Max Tree](https://codeforces.com/contest/2143/problem/C)(1300 rating, topological sort, khan's algorithm, greedy observation)
-
 - [Codeforces : B. Find the Permutation](https://codeforces.com/contest/2056/problem/B)(1300 rating, graph + sorting with custom function)
-
 - [Codefores : C. Disappearing Permutation](https://codeforces.com/problemset/problem/2086/C)(1300 rating, cycle count in permutation)
-
 - [Codeforces : C. Dijkstra?](https://codeforces.com/problemset/problem/20/C)(1900 rating, simple dijkstra to find shortest path)
-
 - [Codeforces : B. String Problem](https://codeforces.com/problemset/problem/33/B)(1800 rating, use dijkstra + bruteforces to greedy way change string)
-
 - [Codeforces : C. Tree Infection](https://codeforces.com/problemset/problem/1665/C)(1600 rating, binary search, tree)
-
 - [Codeforces : C. Infected Tree](https://codeforces.com/problemset/problem/1689/C)(1600 rating, binary tree + DP)
-
 - [Codeforces : E. Nastya and Potions](https://codeforces.com/problemset/problem/1851/E)(1500 rating, topological sort + khans algorithm best example of topological sort) -[Codeforces : A. Copil Copac Draws Trees](https://codeforces.com/problemset/problem/1830/A)(1400 rating, dfs or bfs)(First i go for wrong direction, i try to solve it using dsu. then i thought it maybe solve using topological sort. i miss the main observation that, a child read at its parents time or next to its parents time.)
 - [Codeforces : C. News Distribution](https://codeforces.com/problemset/problem/1167/C)(1400 rating, Simple DSU)
 - [Codeforces : C. Queen](https://codeforces.com/problemset/problem/1143/C)(1400 rating, simple tree algorithm)
 - [Codefores : D. Rae Taylor and Trees (easy version)](https://codeforces.com/problemset/problem/2171/D)(1400 rating, use of multiset, graph, tree, tree property observation)(I just missleaded and think in wrong way. also i just touch the solution idea little bit. but failed to capture it properly. did not notice previous and current component. also i failed to capture a corner case that a component can hold two next components inside.)
 - [Codefores : F. Rae Taylor and Trees (hard version)](https://codeforces.com/contest/2171/problem/F)(1400 rating, use of multiset, graph, tree, tree property observation)(I solve it help of 2171/D)
 - [Codeforces : D. Arboris Contractio](https://codeforces.com/problemset/problem/2131/D)(1400 rating, tree + tree diameter)
+- [Codeforces : C. Divine Tree](https://codeforces.com/problemset/problem/2120/C)(1400 rating, tree + greedy)
+- [Codeforces : A. Ring road](https://codeforces.com/problemset/problem/24/A)(1400 rating, doubly circular linked list)
+- [UVAoj : 336 - A Node Too Far](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=272)(bfs, with compresstion)
+- [Lightoj : Commandos](https://lightoj.com/problem/commandos)(medium, bfs from two side)
+- [LightOj : Best Picnic Ever](https://lightoj.com/problem/best-picnic-ever)(1111, medium, multiple bfs)
+- [Codeforces : D. Christmas Trees](https://codeforces.com/problemset/problem/1283/D)(1800 rating, bfs on number line.)
+- [Codeforces : E. Nearest Opposite Parity](https://codeforces.com/problemset/problem/1272/E)(1900 rating, multisource bfs)
+- [Codeforces : B. Mahmoud and Ehab and the bipartiteness](https://codeforces.com/problemset/problem/862/B)(1300 rating, biparted graph)

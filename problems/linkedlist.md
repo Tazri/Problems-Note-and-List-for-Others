@@ -1,0 +1,1 @@
+- [Codeforces : A. Ring road](https://codeforces.com/problemset/problem/24/A)(1400 rating, doubly circular linked list)

@@ -31,6 +31,7 @@
 - [Codeforces : A. Mishka and Contest](https://codeforces.com/contest/999/problem/A)(800 rating, basic array, loop from first and last without testcase)
 - [Codeforces : A. Zhily and Array Operating](https://codeforces.com/contest/2224/problem/A)(unratd, basic on array)
 - [Codeforces : A. Remove Duplicates](https://codeforces.com/contest/978/problem/A)(800 rating, basic tack and reverse array traverse)
+- [Codeforces : A. Games on the Train](https://codeforces.com/contest/2236/problem/A)(unrated, find min and max different)
 
 ## Sorting
 

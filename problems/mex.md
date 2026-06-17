@@ -4,3 +4,4 @@
 - [Codeforces : B. MEX Reordering](https://codeforces.com/contest/2191/problem/B)(1000 rating, mex problem + observation)
 - [Codeforces : D. Palindromex](https://codeforces.com/contest/2227/problem/D)(unrated, palindrome + mex)
 - [Codeforces : B. Zhily and Mex and Max](https://codeforces.com/contest/2224/problem/B)(unrated, greedy + mex)(failed to implement mex for every index i)
+- [Codeforces : E. MEX Count](https://codeforces.com/contest/2123/problem/E)(1400 rating, mex)(almost failed, but solved take lot of times more than necessary)

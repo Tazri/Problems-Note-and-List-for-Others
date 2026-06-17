@@ -1,2 +1,6 @@
 - [Codeforecs : B. Array](https://codeforces.com/contest/2209/problem/B)(unrated, bruteforces or policy based data structure)
 - [Codeforces : F. It Just Keeps Going Sideways](https://codeforces.com/contest/2227/problem/F)(unrated, prefix sum, simulation, use of ordered_multiset)(I success to find total move of initial array but i failed if one cube is decrease then what will be change)
+- [Codeforces : D. Pair of Topics](https://codeforces.com/problemset/problem/1324/D)(1400 rating, use of policy based data structure)
+- [Codeforces : E. String Reversal](https://codeforces.com/problemset/problem/1430/E)(1900 rating, inversion count and use of policy based data structure)
+- [Codeforces : E. Enemy is weak](https://codeforces.com/problemset/problem/61/E)(1900 rating, use of policy based data structure)
+- [Codeforces : D. Pashmak and Parmida's problem](https://codeforces.com/problemset/problem/459/D)(1800 rating, use of policy based data structure and map)

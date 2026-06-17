@@ -33,3 +33,4 @@
 - [Codeforces : C. Kanade's Perfect Multiples](https://codeforces.com/problemset/problem/2173/C)(1400 rating, bruteforces + sorting+ multiples)
 - [Codeforces : C. Meximum Array 2](https://codeforces.com/problemset/problem/2157/C)(1400 rating, bruteforces + sorting)(i success to implement actual solution but i miss the sorting range for mex. and thats the thing i stuck for 2 hours)
 - [Codefores : B. Power Sequence](https://codeforces.com/problemset/problem/1397/B)(1500 rating, brutefoces)
+- [Codeforcs : D. Dima and Lisa](https://codeforces.com/problemset/problem/584/D)(1800 rating, use of goldbarg conjecture,bruteforces)(failed to detect why will bruteforces will work here)
