@@ -1,5 +1,8 @@
 ## Modulcar Arithmetics
 
+## basic
+
+- [Codeforces : A. Carnival Wheel](https://codeforces.com/problemset/problem/2180/A)(800 rating, basic modular wheel)
 - [Codeforces : A. Modular Exponentiation](https://codeforces.com/problemset/problem/913/A)(900 rating, basic mod concept)
 
 - [Codeforces : B. Moderate Modular Mode](https://codeforces.com/problemset/problem/1603/B)(1600 rating, modular Arithmetics, constructive algorithm, mod + number line tricks)

@@ -16,6 +16,9 @@
 - [CSES : Round Trip II](https://cses.fi/problemset/task/1678/)(cycle detect in directional graph and print)
 - [UVAoj : 10305 - Ordering Tasks](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1246)(topological sort in directed graph)
 - [CSES : Course Schedule](https://cses.fi/problemset/task/1679)(topological sort in directed graph)
+- [Lightoj : Farthest Nodes in a Tree](https://lightoj.com/problem/farthest-nodes-in-a-tree)(easy, find the longest distance in weighted tree)
+- [Lightoj : Farthest Nodes in a Tree (II)](https://lightoj.com/problem/farthest-nodes-in-a-tree-ii)(medium, find the fartest distance in weighted tree from every node)
+- [Spoj : EAGLE1 - Eagle and Dogs](https://www.spoj.com/problems/EAGLE1/en/)(find the fartest distance in weighted tree from every node)
 
 ## Problem On Graph
 
@@ -48,3 +51,12 @@
 - [Codeforces : D. Christmas Trees](https://codeforces.com/problemset/problem/1283/D)(1800 rating, bfs on number line.)
 - [Codeforces : E. Nearest Opposite Parity](https://codeforces.com/problemset/problem/1272/E)(1900 rating, multisource bfs)
 - [Codeforces : B. Mahmoud and Ehab and the bipartiteness](https://codeforces.com/problemset/problem/862/B)(1300 rating, biparted graph)
+- [Codeforces : E. Kirei Attacks the Estate](https://codeforces.com/problemset/problem/2114/E)(1400 rating, bfs and prefix sum on tree)
+- [CSES : Monsters](https://cses.fi/problemset/task/1194/)(BFS on matrix)
+- [Spoj : Yet Another Multiple Problem](https://www.spoj.com/problems/MULTII/en/)(Graph bfs + number theory)
+- [Codeforecs : F. Ehab's Last Theorem](https://codeforces.com/problemset/problem/1325/F)(2500 rating, dfs tree and coloring graph)
+- [Codeforces : D. Lunar New Year and a Wander](https://codeforces.com/problemset/problem/1106/D)(1500 rating, graph + priority queue + bfs)
+- [Codeforces : C. Village Guilds](https://codeforces.com/problemset/problem/2238/C)(1400 rating, graph heights calculating)
+- [Codeforces : C. Stepan and Permutation](https://codeforces.com/contest/2244/problem/C#)(unratd, math ,component sorting)
+- [Codeforces : C. Arrow Path](https://codeforces.com/problemset/problem/1948/C)(1300 rating, basic graph traverse)
+- [Codeforces : C. Mocha and Hiking](https://codeforces.com/contest/1559/problem/C)(1200 rating, graph, constructive algorithm, lot of edge case)

@@ -9,3 +9,5 @@
 
 - [Codeforces : E. It All Went Sideways](https://codeforces.com/contest/2227/problem/E)(unrated, monotonic stack)
 - [Codeforces : D. Bracket Coloring](https://codeforces.com/problemset/problem/1837/D)(1400 rating, brackets, stack observatoin)
+- [Codeforces : C. Duck Surplus](https://codeforces.com/contest/2237/problem/C)(unrated, stack, monotonic stack)
+- [Codeforces : B. Game with string](https://codeforces.com/problemset/problem/1104/B)(1200 rating, basic stack, game)

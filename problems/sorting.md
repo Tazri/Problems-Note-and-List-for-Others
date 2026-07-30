@@ -21,3 +21,6 @@
 
 - [Codeforces : B. Artistic Balance Tree](https://codeforces.com/contest/2222/problem/B)(unrated, sorting)(I miss interpreted the problem statements )
 - [Codeforces : C. Trip Shopping](https://codeforces.com/problemset/problem/2127/C)(1400 rating, greedy sorting games)
+- [Codeforces : B. Annoying the Ghost](https://codeforces.com/contest/2237/problem/B)(unrated, insertion sort, greedy + bruteforces)
+- [Codeforces : B. Parity Sort](https://codeforces.com/problemset/problem/1851/B)(800 rating, sorting)
+- [Codeforces : D. Creating a Schedule](https://codeforces.com/problemset/problem/2111/D)(1400 rating, greedy, sorting and number line tricks)

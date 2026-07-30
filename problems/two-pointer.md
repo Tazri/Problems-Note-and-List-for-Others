@@ -12,3 +12,4 @@
 - [Codeforces : B. Kefa and Company](https://codeforces.com/problemset/problem/580/B)(1500 rating, two pointer greedy way to calculate sum)
 
 - [Codeforces : B. Hossam and Friends](https://codeforces.com/problemset/problem/1771/B)(1400 rating, two pointer + use of multiset or map)
+- [Codechef : Game with numbers](https://www.codechef.com/problems/GAMENUMB)(2026 difficulty, two pointer)

@@ -64,6 +64,11 @@
 - [Codeforcs : C. Arrange the Numbers in a Circle](https://codeforces.com/contest/2230/problem/C)(unrated, circular array, math)(failed to solve. can not find properly how to construct the answer best way.)(23-may-2026)
 - [Codeforces : B. Another Sorting Problem](https://codeforces.com/contest/2231/problem/B)(unrated, greedy + math)
 - [Codeforces : B. Cake Leveling](https://codeforces.com/contest/2232/problem/B)(unrated, simple math)
+- [Codeforces : C. Stepan and Permutation](https://codeforces.com/contest/2244/problem/C#)(unratd, math ,component sorting)
+
+## Exponent
+
+- [Kattis : Associative Exponents](https://open.kattis.com/problems/associativeexponents)(math exponent tricks)
 
 ## Mix
 
@@ -87,14 +92,14 @@
 
 - [Codeforces : E1. Rudolf and Snowflakes (simple version)](https://codeforces.com/problemset/problem/1846/E1)(1300 rating, use of geomatric prograssion + divisors)
 - [Codeforces : C. Alternating Sum](https://codeforces.com/problemset/problem/964/C)(1800 rating, math , geomatric progression perodic series)(i failed to simply the eqution, take help from gpt after that, i failed to detect geomatric progression eqution not work if ratio r = 1)
+- [Codeforces : B. ezraft and Array](https://codeforces.com/contest/2246/problem/B)(unrated, making sequence)
 
 ## Basic Math
 
 - [B. The Secret Number](https://codeforces.com/contest/2132/problem/B)(900 rating, basic math)
-
 - [Codeforces : C. Grid L](https://codeforces.com/contest/2220/problem/C)(unrated, Observation + Heavy math + bruteforces)(i cant figure out maximum L shape need)
-
 - [Codeforces : B. Lost Permutation](https://codeforces.com/contest/1759/problem/B)(800 rating, basic Arithmetic Progression observation on permutation of n)
+- [Codeforces : C. Long Multiplication](https://codeforces.com/contest/1954/problem/C)(1200 rating, math, constructive algorithm)
 
 ## Factorial and Legendre
 
@@ -103,3 +108,7 @@
 ## Basic LCM
 
 - [Codeforces : J. Divisibility](https://codeforces.com/problemset/problem/630/J)(1100 rating, math, lcm)
+
+## Divisor
+
+- [Codeforces : B. A Balanced Problemset?](https://codeforces.com/contest/1925/problem/B)(1200 rating, divisor checking, gcd)

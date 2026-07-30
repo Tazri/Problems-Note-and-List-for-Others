@@ -40,3 +40,7 @@
 - [Codeforces : C. Rabbits](https://codeforces.com/problemset/problem/2147/C)(1500 rating, observation, lot of edge case, divide sub problem, sub string)( if failed to think it as sub problem)
 - [Codeforces : B. Ashmal](https://codeforces.com/problemset/problem/2180/B)(800 rating, make lexocographical smallest string)
 - [Codeforces : B. Dictionary](https://codeforces.com/contest/1674/problem/B)(800 rating, map and string)
+- [Codeforces : A. Many Equal Substrings](https://codeforces.com/contest/1029/problem/A)(1300 rating, string + bruteforces + number theory)
+- [Codeforces : A. k-String](https://codeforces.com/problemset/problem/219/A)(1000 rating, constructive, and construct string)
+- [Codeforces : B. Decode String](https://codeforces.com/problemset/problem/1729/B)(800 rating, string ,decode)
+- [Codeforces : C. RemovevomeR](https://codeforces.com/contest/2241/problem/C)(unrated, consecutive count and alternative count,binary string)

@@ -28,3 +28,4 @@
 - [Codeforces : C. Sum of Substrings](https://codeforces.com/problemset/problem/1691/C)(1400 rating, lot of edge case, observation, chance to miss read)(i failed cause i miss read)
 
 - [Codeforces : A. A Wonderful Contest](https://codeforces.com/contest/2222/problem/a)(unrated, simple math observation)
+- [Codeforces : A. Bigrams](https://codeforces.com/contest/2242/problem/A)(unrated, adhoc, math observation)

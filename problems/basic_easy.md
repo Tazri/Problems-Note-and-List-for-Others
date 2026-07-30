@@ -21,6 +21,7 @@
 - [Codeforces : A. Water Buying](https://codeforces.com/contest/1118/problem/A)(800 rating, basic math)
 - [Codeforces : A. Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A)(unrated, basic math and modular arithematics)
 - [Codeforces : A. Optimal Purchase](https://codeforces.com/contest/2230/problem/A)(unrated, basic math + greedy)
+- [Codeforces : A. Divide and Conquer](https://codeforces.com/contest/2241/problem/A)(unrated, prime factorizatoin basic thinking)
 
 ## Basic Array
 
@@ -32,6 +33,7 @@
 - [Codeforces : A. Zhily and Array Operating](https://codeforces.com/contest/2224/problem/A)(unratd, basic on array)
 - [Codeforces : A. Remove Duplicates](https://codeforces.com/contest/978/problem/A)(800 rating, basic tack and reverse array traverse)
 - [Codeforces : A. Games on the Train](https://codeforces.com/contest/2236/problem/A)(unrated, find min and max different)
+- [Codeforces : A. Destroying Towers](https://codeforces.com/contest/2237/problem/A)(unrated, basic array, cumolitive min)
 
 ## Sorting
 
@@ -41,6 +43,7 @@
 - [Codeforces : A. Cards](https://codeforces.com/problemset/problem/701/A)(800 rating, bruteforces sorting and simple number line math, bruteforces sort allowed)
 - [Codeforces : A. Remove Smallest](https://codeforces.com/problemset/problem/1399/A)(800 rating, sorting+greedy)
 - [Codeforces : A. Flip Flops](https://codeforces.com/contest/2209/problem/A)(unrated, sorting+greedy)
+- [Codeforces : A. Yet Another Dividing into Teams](https://codeforces.com/contest/1249/problem/A)(800 rating, sorting and observation)
 
 ## string and setmap
 
@@ -57,10 +60,13 @@
 - [Codeforces : A. Vlad and the Best of Five](https://codeforces.com/problemset/problem/1926/A)(800 rating, vasic freq count from string character)
 - [Codeforces : A. Polycarp and the Day of Pi](https://codeforces.com/problemset/problem/1790/A)(800 rating string match count)
 - [Codeforces : A. Diverse Team](https://codeforces.com/contest/988/problem/A)(800 rating, basic set and array)
+- [Codeforces : C. Mr. Perfectly Fine](https://codeforces.com/problemset/problem/1829/C)(800 rating, basic find min and mx)
+- [Codeforces : A. Iskander and Drawings](https://codeforces.com/contest/2244/problem/A)(unrated, basic string, count contigious segment)
 
 ## Counting
 
 - [Codeforces : A. Rudolph and Cut the Rope](https://codeforces.com/contest/1846/problem/A)(800 rating, counting simple)
+- [Codeforces : B. Minority](https://codeforces.com/problemset/problem/1633/B)
 
 ## Bit
 

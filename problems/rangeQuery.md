@@ -28,7 +28,14 @@
 - [Spoj : GSS3 - Can you answer these queries III](https://www.spoj.com/problems/GSS3/en/)(Segment tree on max sub array sum merging)
 - [Spoj : DQUERY - D-query](https://www.spoj.com/problems/DQUERY/en/)(find the distinct element in range, here used offline query and segment tree)
 - [Codeforces : F. SUM and REPLACE](https://codeforces.com/problemset/problem/920/F)(2000 rating, range updaet query using segment tree and range sum and number of divisors)
+- [Codeforces : F. Greetings](https://codeforces.com/problemset/problem/1915/F)(1500 rating, use of segments tree)
+
+# prefix xor
+
+- [Codeforces : E. Data Structures Fan](https://codeforces.com/problemset/problem/1872/E)(1500 rating, xor, range query using prefix xor)
 
 # Segment Tree + Offline Query
 
 - [Codeforces : D. Yaroslav and Divisors](https://codeforces.com/problemset/problem/301/D)(2200 rating, segment tree + offiline query + number theory)
+- [Codeforces : C. Sereja and Brackets](https://codeforces.com/problemset/problem/380/C)(2000 rating, segment tree + offline query, brackets pair)
+- [COdeforces : D. Mishka and Interesting sum](https://codeforces.com/problemset/problem/703/D)(2100 rating, segment tree, range xor update query and xor query + offline query)

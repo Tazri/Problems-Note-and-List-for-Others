@@ -42,3 +42,6 @@
 - [Codeforces : C2. The Cunning Seller (hard version)](https://codeforces.com/problemset/problem/2132/C2)(1400 rating, number system + binary search + greedy)(failed to solve and failed to get that 3 base number system will work)
 - [Codeforces : B. A Trivial Problem](https://codeforces.com/problemset/problem/633/B)(1300 rating, legendre + binary search)
 - [Codeforces : C2. Seating Arrangement (Hard Version)](https://codeforces.com/contest/2232/problem/C2)(unrated, binary search on prefix thinking)(i failed to think that its binary search problem. in my first view, i thought it can solve by dp. but constrain make it solve by dp. so i go for dp, implement dp solution and got tle at testcase 3. and try to still solve it using iterative dp and optimizing it. which is theoritically impossible, and forget to more observe the problem more. and that trap take whole time of contest.)
+- [Codeforces : C. Self Citation](https://codeforces.com/gym/106592/problem/C)(gym, binary search, water filling algorithm)
+- [Codeforces : L. Controllers](https://codeforces.com/problemset/problem/1776/L)(1500 rating, bisection)
+- [Codeforces : D. Place of the Olympiad](https://codeforces.com/contest/2091/problem/D)(1200 rating, basic bisection)

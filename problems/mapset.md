@@ -35,3 +35,5 @@
 - [Codeforces : D. Pashmak and Parmida's problem](https://codeforces.com/problemset/problem/459/D)(1800 rating, use of policy based data structure and map)
 - [Codeforces : B. Dictionary](https://codeforces.com/contest/1674/problem/B)(800 rating, map and string)
 - [Codeforces : C. Chipmunk Theo and Equality](https://codeforces.com/problemset/problem/2231/C)(1400 rating, use of map and set)
+- [Codeforces : D. Come a Little Closer](https://codeforces.com/problemset/problem/2114/D)(1400 rating, geomatry, use of multiset, math and greedy)
+- [Codechef : Rich Substrings](https://www.codechef.com/problems/RICHSTR)(2211 difficulty, use of map and set)

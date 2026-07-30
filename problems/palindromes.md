@@ -8,3 +8,4 @@
 
 - [Codeforces : D. Palindromex](https://codeforces.com/contest/2227/problem/D)(unrated, palindrome + mex)
 - [Codeforces : B. Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B)(unrated, palindromes and number thoery)
+- [Codeforces : B. Letters Rearranging](https://codeforces.com/problemset/problem/1093/B)(900 rating, basic palindrome)

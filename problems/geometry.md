@@ -14,3 +14,4 @@
 - [Codeforces : C. Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C)(1500 rating, geomatrey + greedy)
 
 - [Codeforces : B. Shuffle](https://codeforces.com/problemset/problem/1366/B)(1300, segment intersect detect)
+- [Codeforces : D. Come a Little Closer](https://codeforces.com/problemset/problem/2114/D)(1400 rating, geomatry, use of multiset, math and greedy)

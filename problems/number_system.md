@@ -21,3 +21,5 @@
 - [Codeforce : C. Thermostat](https://codeforces.com/contest/1759/problem/C)(1100 rating, math and observation on number line)
 - [Codeforces : A. Convergence](https://codeforces.com/contest/2232/problem/A)(unratd, greedy and number line)
 - [Codeforces : D. Christmas Trees](https://codeforces.com/problemset/problem/1283/D)(1800 rating, bfs on number line.)
+- [Codeforces : C. Line Empire](https://codeforces.com/problemset/problem/1659/C)(1500 rating, suffix sum and little bit math and number line)
+- [CSES : Two Sets](https://cses.fi/problemset/task/1092/)(number line, constructive)

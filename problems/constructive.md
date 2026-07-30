@@ -36,3 +36,9 @@
 
 - [Codeforces : C. Snowfall](https://codeforces.com/contest/2227/problem/C)(unrated, basic number theory + subarray logic + constructive)
 - [Codeforces : A. Construct an Array](https://codeforces.com/contest/2231/problem/A)(unrated, simple constructive algorithm on number line)
+- [Codeforces : A. k-String](https://codeforces.com/problemset/problem/219/A)(1000 rating, constructive, and construct string)
+- [Codeforces : A. farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A)(unrated, constructive algorithm)
+- [Codeforces : B. String Construction](https://codeforces.com/contest/2250/problem/B)(unrated, constructive algorithm, binary string)
+- [CSES : Two Sets](https://cses.fi/problemset/task/1092/)(number line, constructive)
+- [Codeforces : C. Mocha and Hiking](https://codeforces.com/contest/1559/problem/C)(1200 rating, graph, constructive algorithm, lot of edge case)
+- [Codeforces : C. Long Multiplication](https://codeforces.com/contest/1954/problem/C)(1200 rating, math, constructive algorithm)

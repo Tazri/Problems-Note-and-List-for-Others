@@ -1,0 +1,1 @@
+- [Codeforces : C. Self Citation](https://codeforces.com/gym/106592/problem/C)(gym, binary search, water filling algorithm)

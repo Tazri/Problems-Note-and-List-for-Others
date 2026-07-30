@@ -45,11 +45,17 @@
 - [Codeforces : B. Digit String](https://codeforces.com/contest/2230/problem/B)(unrated, prefix and suffix sum)( i did not get how to be greedy and i failed to guess about prefix and suffix sum for this problem. but main think i actually captured. use of prefix and suffix tricks did not come out in my mind in first. even i hijack testcase, still failed to find that prefix sum tricks. need solution videos to get it.)
 
 - [Codeforces : C. Bear and Prime Numbers](https://codeforces.com/problemset/problem/385/C)(1700 rating, prefix sum, number factorization)(i solved actual problem but accedently write "return" instead "continue" , find it take lot time at last need to see where i got WA to find it)
+- [Codeforces : A. Greg and Array](https://codeforces.com/problemset/problem/295/a)(1400 rating, prefix sum and difference array)
+- [Codeforces : C. Unstable Elements](https://codeforces.com/contest/2242/problem/C)(unrated, suffix sum)
+- [Codeforces : D. Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D)(unrated, prefix sum and simple observation)
+- [Codeforces : E. Masha and the Garland](https://codeforces.com/contest/2244/problem/E)(unrated, prefix sum problem, but it can also solve by using segment tree + offline query which is over kill)
+- [Codeforces : C. Smilo and Monsters](https://codeforces.com/problemset/problem/1891/C)(1500 rating, greedy + prefix sum)
 
 ## Prefix Sum + Binary Search
 
 - [B. Worms](https://codeforces.com/problemset/problem/474/B)(prefix sum and binary search or two pointer , 900 rating)
 - [Codeforces : D. Max Median](https://codeforces.com/problemset/problem/1486/D)(2100 rating, binary search + prefix sum + median)(i thought first it can solve by median find by ordered multiset, and i was fully wrong. also failed to find the monotonic properties that i can use in binary search, also failed to thought binary pedicate function to and +1, -1 assume for x >= and x < tricks)
+- [Codeforces : C. Tea Tasting](https://codeforces.com/problemset/problem/1795/C)(1500 rating, prefix sum + binary search)
 
 ## Implementing :
 
@@ -67,3 +73,7 @@
 ## 2d Partial Sum
 
 - [Forest Queries](https://cses.fi/problemset/task/1652/)(calculate 2d partial sum)
+
+## Suffix Sum
+
+- [Codeforces : C. Line Empire](https://codeforces.com/problemset/problem/1659/C)(1500 rating, suffix sum and little bit math and number line)

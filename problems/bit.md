@@ -40,3 +40,8 @@
 - [Codeforces : E. Iva & Pav](https://codeforces.com/problemset/problem/1878/E)(1400 rating, binary search, bits & query)
 - [Codeforces : B. AND Sequences](https://codeforces.com/problemset/problem/1513/B)(1400 rating, combinetrics + & bits observation)
 - [Codeforces : C. Johnny and Another Rating Drop](https://codeforces.com/problemset/problem/1362/C)(1400 rating, binary number system, bits position observation) -[Codeforces : E. Adjacent XOR](https://codeforces.com/contest/2131/problem/E)(1400 rating, bits xor)
+- [Codeforces : A. Another Popcount Problem](https://codeforces.com/contest/2240/problem/A)(unrated, bits + greedy)
+- [Codeforces : A. Yes or Yes](https://codeforces.com/problemset/problem/2178/A)(800 rating, bits or operation)
+- [Codeforces : E. Data Structures Fan](https://codeforces.com/problemset/problem/1872/E)(1500 rating, xor, range query using prefix xor)
+- [Codeforces : B. Getting Zero](https://codeforces.com/problemset/problem/1661/B)(1300 rating, bitmask)
+- [Codeforces : C. Factorials and Powers of Two](https://codeforces.com/problemset/problem/1646/C)(1500 rating, bitmask,bruteforces)

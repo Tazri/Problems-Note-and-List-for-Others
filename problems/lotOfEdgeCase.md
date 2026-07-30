@@ -5,3 +5,5 @@
 - [Codeforces : C. Sum of Substrings](https://codeforces.com/problemset/problem/1691/C)(1400 rating, lot of edge case, observation, chance to miss read)(i failed cause i miss read)
 
 - [Codeforces : C. Rabbits](https://codeforces.com/problemset/problem/2147/C)(1500 rating, observation, lot of edge case, divide sub problem, sub string)( if failed to think it as sub problem)
+- [Codeforces : A. Zero Sum](https://codeforces.com/contest/2247/problem/A)(unrated, lot of edge case, basic array)
+- [Codeforces : C. Mocha and Hiking](https://codeforces.com/contest/1559/problem/C)(1200 rating, graph, constructive algorithm, lot of edge case)
