@@ -13,3 +13,4 @@
 - [Codeforces : B. Move and Turn](https://codeforces.com/problemset/problem/1459/B)(1300 rating, observation on final points)
 
 - [Codeforces : D. Ingenuity-2](https://codeforces.com/contest/1974/problem/D)(1400 rating, coordinate system, lot of edge case, )
+- [Codeforces : B. Eastern Exhibition](https://codeforces.com/problemset/problem/1486/B)(1500 rating, manhattern distance and number line)

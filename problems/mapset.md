@@ -37,3 +37,5 @@
 - [Codeforces : C. Chipmunk Theo and Equality](https://codeforces.com/problemset/problem/2231/C)(1400 rating, use of map and set)
 - [Codeforces : D. Come a Little Closer](https://codeforces.com/problemset/problem/2114/D)(1400 rating, geomatry, use of multiset, math and greedy)
 - [Codechef : Rich Substrings](https://www.codechef.com/problems/RICHSTR)(2211 difficulty, use of map and set)
+- [Codeforces : E. Chronostasis](https://codeforces.com/contest/2254/problem/E)(unrated, use of multiset and lowerbound concept)
+- [Codeforces : D. Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D)(1500 rating, math and map and counting)

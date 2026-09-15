@@ -5,3 +5,5 @@
 - [Codeforces : A. Non-zero](https://codeforces.com/contest/1300/problem/A)(800 rating, simple observation)
 - [Codeforces : A. Add or XOR](https://codeforces.com/problemset/problem/2119/A)(800 rating, greedy adhoc)
 - [Codeforces : B. Chat Order](https://codeforces.com/contest/637/problem/B)(1200 rating, adhoc)
+
+- [Codeforces : C. Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2256/problem/C)(unrated, binary string, cycalic and game )

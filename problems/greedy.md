@@ -32,3 +32,8 @@
 - [Codeforces : B. Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B)(unrated, greedy)
 - [Codeforces : D. Creating a Schedule](https://codeforces.com/problemset/problem/2111/D)(1400 rating, greedy, sorting and number line tricks)
 - [Codefores : D. Array and Operations](https://codeforces.com/problemset/problem/1618/D)(1300 rating, greedy problem)
+- [Codeforces : A. You Delete, I Delete](https://codeforces.com/contest/2248/problem/A)(unrated, greedy, binary string)
+- [Codeforces : C2. Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2)(unratd, greedy, use of multiset)
+- [Codeforces : B. Always Changing](https://codeforces.com/contest/2252/problem/B)(unrated, greedy math)
+- [Codeforces : C. Division and Union](https://codeforces.com/problemset/problem/1101/C)(1500 rating, greedy segment, and replace greedy proof)
+- [Codeforces : B. Minimize the error](https://codeforces.com/contest/960/problem/B)(1500 rating, greedy)

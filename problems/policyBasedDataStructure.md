@@ -4,3 +4,4 @@
 - [Codeforces : E. String Reversal](https://codeforces.com/problemset/problem/1430/E)(1900 rating, inversion count and use of policy based data structure)
 - [Codeforces : E. Enemy is weak](https://codeforces.com/problemset/problem/61/E)(1900 rating, use of policy based data structure)
 - [Codeforces : D. Pashmak and Parmida's problem](https://codeforces.com/problemset/problem/459/D)(1800 rating, use of policy based data structure and map)
+- [Codeforces : D. Good Substrings](https://codeforces.com/problemset/problem/271/D)(1800 rating, string hashing, use of policy based dsa, custom hash)

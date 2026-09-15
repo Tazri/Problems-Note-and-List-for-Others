@@ -45,3 +45,6 @@
 - [Codeforces : C. Self Citation](https://codeforces.com/gym/106592/problem/C)(gym, binary search, water filling algorithm)
 - [Codeforces : L. Controllers](https://codeforces.com/problemset/problem/1776/L)(1500 rating, bisection)
 - [Codeforces : D. Place of the Olympiad](https://codeforces.com/contest/2091/problem/D)(1200 rating, basic bisection)
+- [Codeforces : B. Password](https://codeforces.com/problemset/problem/126/B)(1700 rating,rolling hashing and binary search)
+- [Codeforces : C. Letters](https://codeforces.com/problemset/problem/978/C)(1000 rating, binary search on prefix sum)
+- [Codeforces : C. To Become Max](https://codeforces.com/problemset/problem/1856/C)(1600 rating, binary search)

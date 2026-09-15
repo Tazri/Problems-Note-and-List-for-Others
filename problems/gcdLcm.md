@@ -23,3 +23,5 @@
 - [Codeforces : C. Joty and Chocolate](https://codeforces.com/problemset/problem/678/C)(1600 rating, basic counting + lcm)
 - [Codeforces : J. Divisibility](https://codeforces.com/problemset/problem/630/J)(1100 rating, math, lcm)
 - [Codeforces : B. A Balanced Problemset?](https://codeforces.com/contest/1925/problem/B)(1200 rating, divisor checking, gcd)
+- [Codeforces : A. Pride](https://codeforces.com/contest/891/problem/A)(1500 rating, bruteforces + gcd)
+- [Codeforces : C. Partitioning the Array](https://codeforces.com/problemset/problem/1920/C)(1600 rating, gcd, math, bruteforces)

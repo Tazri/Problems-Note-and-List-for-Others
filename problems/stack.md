@@ -11,3 +11,5 @@
 - [Codeforces : D. Bracket Coloring](https://codeforces.com/problemset/problem/1837/D)(1400 rating, brackets, stack observatoin)
 - [Codeforces : C. Duck Surplus](https://codeforces.com/contest/2237/problem/C)(unrated, stack, monotonic stack)
 - [Codeforces : B. Game with string](https://codeforces.com/problemset/problem/1104/B)(1200 rating, basic stack, game)
+- [Codeforces : C1. Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1)(unrated, stack and greedy)
+- [Codeforces : C. Decreasing String](https://codeforces.com/problemset/problem/1886/C)(1600 rating, monotonic stack)

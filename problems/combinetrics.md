@@ -18,3 +18,8 @@
 - [Codeforces : B. WOW Factor](https://codeforces.com/problemset/problem/1178/B)(1300 rating, string parse + combinetrics)
 
 - [Codeforces : B. AND Sequences](https://codeforces.com/problemset/problem/1513/B)(1400 rating, combinetrics + & bits observation)
+- [Codeforces : D. A Ribbon for Tomorrow](https://codeforces.com/contest/2256/problem/D)(unrated, combinetrics)
+- [Codeforces : C. Edgy Trees](https://codeforces.com/contest/1139/problem/C)(1500 rating, component count and combinetricts)
+- [Codeforces : B. Count Subrectangles](https://codeforces.com/contest/1323/problem/B)(1500 rating, greedy and combinetrics)
+- [Codeforces : C. The Fair Nut and String](https://codeforces.com/problemset/problem/1084/C)(1500 rating, combinetrics)
+- [Codeforces : D. Triangle Coloring](https://codeforces.com/problemset/problem/1795/D)(1600 rating, combinetrics)

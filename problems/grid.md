@@ -10,3 +10,4 @@
 - [Codeforces : G. Fall Down](https://codeforces.com/contest/1669/problem/G)(1200 rating, grid simple simulate problem)
 
 - [Codeforces : B. Make Connected](https://codeforces.com/problemset/problem/2161/B)(1700 rating, grid, heavy implemantation)(failed implement solution, mean failed to check zig zag)
+- [Codeforces : A. Cakeminator](https://codeforces.com/problemset/problem/330/A)(800 rating, grid traverse)

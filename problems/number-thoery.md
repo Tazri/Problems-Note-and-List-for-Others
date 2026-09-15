@@ -74,3 +74,5 @@
 - [Codeforces : C. Bear and Prime Numbers](https://codeforces.com/problemset/problem/385/C)(1700 rating, prefix sum, number factorization)(i solved actual problem but accedently write "return" instead "continue" , find it take lot time at last need to see where i got WA to find it)
 - [Codeforcs : D. Dima and Lisa](https://codeforces.com/problemset/problem/584/D)(1800 rating, use of goldbarg conjecture,bruteforces)(failed to detect why will bruteforces will work here)
 - [Codeforces : A. Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A)(unrated, simple moduler observation)
+
+- [Codeforces : A. The Best Card](https://codeforces.com/problemset/problem/2253/A)(800 rating, detect prime or not)

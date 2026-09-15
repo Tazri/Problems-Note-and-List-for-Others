@@ -9,3 +9,6 @@
 - [Codeforces : D. Palindromex](https://codeforces.com/contest/2227/problem/D)(unrated, palindrome + mex)
 - [Codeforces : B. Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B)(unrated, palindromes and number thoery)
 - [Codeforces : B. Letters Rearranging](https://codeforces.com/problemset/problem/1093/B)(900 rating, basic palindrome)
+- [Codeforces : D. Hossam and (sub-)palindromic tree](https://codeforces.com/problemset/problem/1771/D)(2100 rating, dp, pallindrome, dfs, graph traverse)
+- [Codeforces : D. Say No to Palindromes](https://codeforces.com/problemset/problem/1555/D)(1600 rating, prefix sum and palindromes and bruteforces concept)
+- [Codeforcs : C. K-Complete Word](https://codeforces.com/problemset/problem/1332/C)(1500 rating, dsu and pallindrome and sliding windows concept)

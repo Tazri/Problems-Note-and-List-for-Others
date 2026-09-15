@@ -6,3 +6,7 @@
 - [Codeforces : C2. Equal Multisets (Hard Version)](https://codeforces.com/contest/2211/problem/C2)(unrated, sliding window similarity)
 
 - [Codeforces : B. Average Sleep Time](https://codeforces.com/problemset/problem/808/B)(1300 rating, sliding windows sum)
+- [Codeforces : A. k-Amazing Numbers](https://codeforces.com/problemset/problem/1416/A)(1500 rating, sliding windows concept)
+- [Codeforces : A. Balanced Bitstring](https://codeforces.com/problemset/problem/1404/A)(1500, sliding windows concept)
+- [Codeforcs : C. K-Complete Word](https://codeforces.com/problemset/problem/1332/C)(1500 rating, dsu and pallindrome and sliding windows concept)
+- [Codeforces : E. Games on a CD](https://codeforces.com/problemset/problem/727/E)(2300 rating, String hashing, sliding window concept)

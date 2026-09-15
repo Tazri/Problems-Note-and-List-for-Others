@@ -3,6 +3,8 @@
 ## Very Basic
 
 - [Codeforces : A. The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A)(unrated, simple observation + math)
+- [Codeforces : A. ABC](https://codeforces.com/contest/1632/problem/A)(800 rating, basic observation)
+- [Codeforces : A. Three Doors](https://codeforces.com/problemset/problem/1709/A)(800 rating, basic obervation)
 
 ## Basic Math
 
@@ -22,6 +24,9 @@
 - [Codeforces : A. Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A)(unrated, basic math and modular arithematics)
 - [Codeforces : A. Optimal Purchase](https://codeforces.com/contest/2230/problem/A)(unrated, basic math + greedy)
 - [Codeforces : A. Divide and Conquer](https://codeforces.com/contest/2241/problem/A)(unrated, prime factorizatoin basic thinking)
+- [Codeforces : A. Riptide](https://codeforces.com/contest/2254/problem/A)(unrated, basic math and condition)
+- [Codeforces : A. Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A)(unrated, simple math)
+- [Codeforces : A. The Best Card](https://codeforces.com/problemset/problem/2253/A)(800 rating, detect prime or not)
 
 ## Basic Array
 
@@ -34,6 +39,7 @@
 - [Codeforces : A. Remove Duplicates](https://codeforces.com/contest/978/problem/A)(800 rating, basic tack and reverse array traverse)
 - [Codeforces : A. Games on the Train](https://codeforces.com/contest/2236/problem/A)(unrated, find min and max different)
 - [Codeforces : A. Destroying Towers](https://codeforces.com/contest/2237/problem/A)(unrated, basic array, cumolitive min)
+- [Codeforces : A. Nezzar and Colorful Balls](https://codeforces.com/problemset/problem/1478/A)(800 rating, basic array and consecutive count)
 
 ## Sorting
 
@@ -62,11 +68,14 @@
 - [Codeforces : A. Diverse Team](https://codeforces.com/contest/988/problem/A)(800 rating, basic set and array)
 - [Codeforces : C. Mr. Perfectly Fine](https://codeforces.com/problemset/problem/1829/C)(800 rating, basic find min and mx)
 - [Codeforces : A. Iskander and Drawings](https://codeforces.com/contest/2244/problem/A)(unrated, basic string, count contigious segment)
+- [Codeforces : A. Creating Abbreviations](https://codeforces.com/contest/2257/problem/A)(unrated, basic string and map concept)
+- [Codeforcs : A. Juggling Letters](https://codeforces.com/problemset/problem/1397/A)(800 rating, basic map)
 
 ## Counting
 
 - [Codeforces : A. Rudolph and Cut the Rope](https://codeforces.com/contest/1846/problem/A)(800 rating, counting simple)
 - [Codeforces : B. Minority](https://codeforces.com/problemset/problem/1633/B)
+- [Codeforces : B. Squares and Cubes](https://codeforces.com/problemset/problem/1619/B)(800 rating, counting)
 
 ## Bit
 
@@ -88,3 +97,9 @@
 ## Testcase
 
 - [Codeforces : A. Koshary](https://codeforces.com/contest/2227/problem/A)(unrated, very basic,only on parity check)
+
+## Constructive :
+
+- [Codeforces : B. Shrink](https://codeforces.com/contest/2117/problem/B)(800 rating, constructive algorithm)
+- [Codeforces : B. Taisia and Dice](https://codeforces.com/problemset/problem/1790/B)(800 rating, constructive algorithm basic)
+- [Codeforces : A. 2023](https://codeforces.com/problemset/problem/1916/A)(800 rating, basic math + constructive)

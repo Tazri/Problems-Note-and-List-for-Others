@@ -44,3 +44,5 @@
 - [Codeforces : A. k-String](https://codeforces.com/problemset/problem/219/A)(1000 rating, constructive, and construct string)
 - [Codeforces : B. Decode String](https://codeforces.com/problemset/problem/1729/B)(800 rating, string ,decode)
 - [Codeforces : C. RemovevomeR](https://codeforces.com/contest/2241/problem/C)(unrated, consecutive count and alternative count,binary string)
+- [Codeforces : B. Evanescent](https://codeforces.com/contest/2254/problem/B)(unrated, string compression, and greedy)
+- [Codeoforces : B1. Wonderful Coloring - 1](https://codeforces.com/problemset/problem/1551/B1)(800 rating, string)

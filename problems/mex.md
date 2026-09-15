@@ -5,3 +5,4 @@
 - [Codeforces : D. Palindromex](https://codeforces.com/contest/2227/problem/D)(unrated, palindrome + mex)
 - [Codeforces : B. Zhily and Mex and Max](https://codeforces.com/contest/2224/problem/B)(unrated, greedy + mex)(failed to implement mex for every index i)
 - [Codeforces : E. MEX Count](https://codeforces.com/contest/2123/problem/E)(1400 rating, mex)(almost failed, but solved take lot of times more than necessary)
+- [Codeforces : C. Ehab and Path-etic MEXs](https://codeforces.com/problemset/problem/1325/C)(1500 rating, constructive, graph, mex)

@@ -40,3 +40,7 @@
 - [Codeforces : B. Yet Another Coin Problem](https://codeforces.com/problemset/problem/1934/B)(1200 rating, bruteforces)
 - [Codeforces : C. Rank Subsequence](https://codeforces.com/contest/2250/problem/C)(unrated, bruteforces)
 - [Codeforces : C. Factorials and Powers of Two](https://codeforces.com/problemset/problem/1646/C)(1500 rating, bitmask,bruteforces)
+- [Codeforces : D. Hossam and (sub-)palindromic tree](https://codeforces.com/problemset/problem/1771/D)(2100 rating, dp, pallindrome, dfs, graph traverse,bruteforces)
+- [Codeforces : B. Domino Tiles](https://codeforces.com/contest/2256/problem/B)(unrated, implementation and bruteforces, pattern)
+- [Codeforces : A. Pride](https://codeforces.com/contest/891/problem/A)(1500 rating, bruteforces + gcd)
+- [Codeforces : E. Good Triples](https://codeforces.com/problemset/problem/1907/E)(1600 rating, brutefoces + observation)

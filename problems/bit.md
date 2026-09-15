@@ -45,3 +45,5 @@
 - [Codeforces : E. Data Structures Fan](https://codeforces.com/problemset/problem/1872/E)(1500 rating, xor, range query using prefix xor)
 - [Codeforces : B. Getting Zero](https://codeforces.com/problemset/problem/1661/B)(1300 rating, bitmask)
 - [Codeforces : C. Factorials and Powers of Two](https://codeforces.com/problemset/problem/1646/C)(1500 rating, bitmask,bruteforces)
+- [Codeforces : A. Powered Addition](https://codeforces.com/problemset/problem/1338/A)(1500 rating, bit + greedy)
+- [Codeforces : A. XOR Mixup](https://codeforces.com/contest/1698/problem/A)(800 rating, xor tricks)

@@ -42,3 +42,6 @@
 - [CSES : Two Sets](https://cses.fi/problemset/task/1092/)(number line, constructive)
 - [Codeforces : C. Mocha and Hiking](https://codeforces.com/contest/1559/problem/C)(1200 rating, graph, constructive algorithm, lot of edge case)
 - [Codeforces : C. Long Multiplication](https://codeforces.com/contest/1954/problem/C)(1200 rating, math, constructive algorithm)
+- [Codeforces : B. Nastia and a Good Array](https://codeforces.com/problemset/problem/1521/B)(1300 rating, constructive algorithm,gcd)
+- [Codeforces : C. Ehab and Path-etic MEXs](https://codeforces.com/problemset/problem/1325/C)(1500 rating, constructive, graph, mex)
+- [Codeforces : B. Shrink](https://codeforces.com/contest/2117/problem/B)(800 rating, constructive algorithm)

@@ -29,3 +29,6 @@
 
 - [Codeforces : A. A Wonderful Contest](https://codeforces.com/contest/2222/problem/a)(unrated, simple math observation)
 - [Codeforces : A. Bigrams](https://codeforces.com/contest/2242/problem/A)(unrated, adhoc, math observation)
+- [Codeforces : A. Boss Fight](https://codeforces.com/contest/2252/problem/A)(unrated, math + observation)
+- [Codeforces : B. Zero Array](https://codeforces.com/contest/1201/problem/B)(1500 rating, observation)
+- [Codeforces : E. Good Triples](https://codeforces.com/problemset/problem/1907/E)(1600 rating, brutefoces + observation)

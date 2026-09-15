@@ -50,12 +50,16 @@
 - [Codeforces : D. Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D)(unrated, prefix sum and simple observation)
 - [Codeforces : E. Masha and the Garland](https://codeforces.com/contest/2244/problem/E)(unrated, prefix sum problem, but it can also solve by using segment tree + offline query which is over kill)
 - [Codeforces : C. Smilo and Monsters](https://codeforces.com/problemset/problem/1891/C)(1500 rating, greedy + prefix sum)
+- [Codeforces : D. Good Pair Queries](https://codeforces.com/contest/2248/problem/D)(1400 rating, parital sum, range query )
 
 ## Prefix Sum + Binary Search
 
 - [B. Worms](https://codeforces.com/problemset/problem/474/B)(prefix sum and binary search or two pointer , 900 rating)
 - [Codeforces : D. Max Median](https://codeforces.com/problemset/problem/1486/D)(2100 rating, binary search + prefix sum + median)(i thought first it can solve by median find by ordered multiset, and i was fully wrong. also failed to find the monotonic properties that i can use in binary search, also failed to thought binary pedicate function to and +1, -1 assume for x >= and x < tricks)
 - [Codeforces : C. Tea Tasting](https://codeforces.com/problemset/problem/1795/C)(1500 rating, prefix sum + binary search)
+- [Codeforces : D. Say No to Palindromes](https://codeforces.com/problemset/problem/1555/D)(1600 rating, prefix sum and palindromes and bruteforces concept)
+- [Codeforces : C. Letters](https://codeforces.com/problemset/problem/978/C)(1000 rating, binary search on prefix sum)
+- [Codeforces : D. Shocking Arrangement](https://codeforces.com/problemset/problem/1798/D)(1600 rating, prefix sum + lower bound concept + use of multiset.)
 
 ## Implementing :
 
@@ -77,3 +81,7 @@
 ## Suffix Sum
 
 - [Codeforces : C. Line Empire](https://codeforces.com/problemset/problem/1659/C)(1500 rating, suffix sum and little bit math and number line)
+
+## Partial + Suffix Sum
+
+- [Codeforces : C. Number of Ways](https://codeforces.com/problemset/problem/466/C)(1700 rating, parital sum + suffix sum + observation)

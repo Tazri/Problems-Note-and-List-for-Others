@@ -1,1 +1,2 @@
 - [Codeforces : E. String Reversal](https://codeforces.com/problemset/problem/1430/E)(1900 rating, inversion count and use of policy based data structure)
+- [Timus : 1523. K-inversions](https://acm.timus.ru/problem.aspx?space=1&num=1523)(dp, on inversions)

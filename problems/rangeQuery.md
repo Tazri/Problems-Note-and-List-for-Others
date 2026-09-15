@@ -39,3 +39,8 @@
 - [Codeforces : D. Yaroslav and Divisors](https://codeforces.com/problemset/problem/301/D)(2200 rating, segment tree + offiline query + number theory)
 - [Codeforces : C. Sereja and Brackets](https://codeforces.com/problemset/problem/380/C)(2000 rating, segment tree + offline query, brackets pair)
 - [COdeforces : D. Mishka and Interesting sum](https://codeforces.com/problemset/problem/703/D)(2100 rating, segment tree, range xor update query and xor query + offline query)
+- [Codeforces : H. Queries for Number of Palindromes](https://codeforces.com/problemset/problem/245/H)(1800 rating, hashing segment tree + offline query)
+
+# parital sum range query
+
+- [Codeforces : D. Good Pair Queries](https://codeforces.com/contest/2248/problem/D)(1400 rating, partial sum, range query )

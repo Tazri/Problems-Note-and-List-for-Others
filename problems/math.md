@@ -100,6 +100,7 @@
 - [Codeforces : C. Grid L](https://codeforces.com/contest/2220/problem/C)(unrated, Observation + Heavy math + bruteforces)(i cant figure out maximum L shape need)
 - [Codeforces : B. Lost Permutation](https://codeforces.com/contest/1759/problem/B)(800 rating, basic Arithmetic Progression observation on permutation of n)
 - [Codeforces : C. Long Multiplication](https://codeforces.com/contest/1954/problem/C)(1200 rating, math, constructive algorithm)
+- [Codeforces : B. Anton and Digits](https://codeforces.com/contest/734/problem/B)(800 rating, basic math)
 
 ## Factorial and Legendre
 

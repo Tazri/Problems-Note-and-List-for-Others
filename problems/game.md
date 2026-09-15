@@ -8,3 +8,6 @@
 - [Codeforces : A. Game with a Fraction](https://codeforces.com/contest/2196/problem/A)(1200 rating, basic math observation + game)
 - [Codeforces : C. Trip Shopping](https://codeforces.com/problemset/problem/2127/C)(1400 rating, greedy sorting games)
 - [Codeforces : B. Game with string](https://codeforces.com/problemset/problem/1104/B)(1200 rating, basic stack, game)
+- [Codeforces : C. Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2256/problem/C)(unrated, binary string, cycalic and game )
+- [Codeforces : B. Gigantomachy](https://codeforces.com/contest/2257/problem/B)(unrate,d, simulate, math ,game)
+- [Codeforces : D. Brand New Tatar TV Show](https://codeforces.com/problemset/problem/2236/D)(1300 rating, games + sorting + consecutive count)

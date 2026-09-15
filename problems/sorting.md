@@ -24,3 +24,6 @@
 - [Codeforces : B. Annoying the Ghost](https://codeforces.com/contest/2237/problem/B)(unrated, insertion sort, greedy + bruteforces)
 - [Codeforces : B. Parity Sort](https://codeforces.com/problemset/problem/1851/B)(800 rating, sorting)
 - [Codeforces : D. Creating a Schedule](https://codeforces.com/problemset/problem/2111/D)(1400 rating, greedy, sorting and number line tricks)
+- [Codeforces : B. Merge to Match](https://codeforces.com/contest/2248/problem/B)(unrated, sorting)
+- [Codeforces : C. Two TVs](https://codeforces.com/contest/845/problem/C)(1500 rating, sorting + greedy)
+- [Codeforces : C. Nested Segments](https://codeforces.com/contest/976/problem/C)(1500 rating, sorting)
